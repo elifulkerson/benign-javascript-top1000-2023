@@ -1,0 +1,1 @@
+window.saasquatch_settings = {"tenant_alias":"a1qe491mcg0e7"};

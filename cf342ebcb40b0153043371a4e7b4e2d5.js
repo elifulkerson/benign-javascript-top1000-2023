@@ -1,0 +1,1 @@
+window.MAL.SkinAd.prepareForSkin('');

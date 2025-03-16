@@ -1,0 +1,1 @@
+$('#sinoptik').html('<iframe width="300" height="118" scrolling="no" name="weather widget" frameborder="0" src="//pinformer.sinoptik.ua/pinformer4.php?lang=ua' + (GetCookie('pcity') ? '&pcity='+GetCookie('pcity') : '') + '&rnd='+Date.now()+'" marginheight="0" marginwidth="0" id="sinoptik_container" rel="nofollow" loading="lazy" title="sinoptik.ua"></iframe>');

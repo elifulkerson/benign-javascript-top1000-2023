@@ -1,0 +1,1 @@
+var sailthru_vars = {"ajaxurl":"https:\/\/nypost.com\/wp-admin\/admin-ajax.php"}

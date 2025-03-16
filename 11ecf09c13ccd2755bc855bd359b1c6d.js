@@ -1,0 +1,2 @@
+try {new window.TaaSTrackingCore({"psi":"A2qRfCxY*","rover":{"imp":"/roverimp/0/0/9","clk":"/roverclk/0/0/9","uri":"https://rover.ebay.it"},"pid":"p4375194"});
+var _plsubtInp={"eventFamily":"DFLT","samplingRate":100, "pageLoadTime": new Date().getTime(), "pageId":4375194, "app":"Testapp", "disableImp":true};var _plsUBTTQ=[];var TaaSIdMapTrackerObj = new TaaSIdMapTracker();TaaSIdMapTrackerObj.roverService("https://rover.ebay.it/idmap/0?footer");} catch (err) { console && console.log && console.log(err); }

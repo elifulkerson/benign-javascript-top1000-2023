@@ -1,0 +1,1 @@
+var adsmtag=adsmtag||{};adsmtag.cmd=adsmtag.cmd||[]

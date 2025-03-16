@@ -1,0 +1,1 @@
+WH.WAS.validateUnit("ad-mobileFooter");

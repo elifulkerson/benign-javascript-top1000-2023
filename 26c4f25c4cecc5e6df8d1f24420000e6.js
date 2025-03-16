@@ -1,0 +1,1 @@
+window._sp_ = {"config":{"accountId":259,"baseEndpoint":"https://cmp.cdn.thesun.co.uk","gdpr":{},"ccpa":{}}}

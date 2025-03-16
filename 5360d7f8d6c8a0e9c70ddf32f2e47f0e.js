@@ -1,0 +1,1 @@
+(function ($) { $(document).ready(function () { $('#hero .component--block.pop').each(function(){ var randomPop = Math.floor(Math.random() * 1000); var randomDelay = Math.floor(Math.random() * 2500); $(this).css({'transition-duration': randomPop + 450 + 'ms','transition-delay': randomDelay +'ms'}); }); $('body').addClass('loaded'); }); })(jQuery);

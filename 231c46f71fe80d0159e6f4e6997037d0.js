@@ -1,0 +1,18 @@
+window.vanilla = window.vanilla || {};
+window.VAN = window.VAN || {};
+// For AB testing
+// list of feature flags is available @ https://purch1.atlassian.net/wiki/spaces/SUPPORT/pages/10863312897/Feature+Flags
+var defaultFlags = {"comments":{"enabled":true},"suggestionBox":{"enabled":true},"regionDropdown":{"enabled":true},"regionRedirect":{"enabled":true},"navSubscribe":{"enabled":true},"gamesReviewScoreLoad":{"enabled":true},"readMore":{"enabled":true},"selligent":{"enabled":true},"jwplayer":{"carousel":{"enabled":true,"IDs":{"playerID":"xRndq6xb","searchPlaylistID":"4Ea1NHIL","divID":"botr_4Ea1NHIL_xRndq6xb_div","fallbackPlaylistID":"egqep2zS","fallbackDivID":"botr_egqep2zS_xRndq6xb_div","key":"IMcDEqsezRep6Vlov8S+D5R7vfE9eQDsizft09U7euHVCtiE","tintLogo":false,"useSearchPlaylist":false}},"stickyPlayer":{"whitenStickyLogo":false},"sidebar":false,"voucher":{"enabled":false},"typeUsed":{"JWPLAYER_CAROUSEL_DESKTOP":"ALL_GEOS","JWPLAYER_CAROUSEL_MOBILE":"ALL_GEOS","DIGITEKA_CAROUSEL_DESKTOP":"NEVER","DIGITEKA_CAROUSEL_MOBILE":"NEVER","JWPLAYER_EDITORIAL_MOBILE":"ALL_GEOS"}},"stickyPrimaryNav":{"enabled":true,"mobileOn":true,"desktopOn":false},"sponsoredPost":{"titleFont":"'Roboto Condensed', sans-serif","bgColor":"rgb(237,237,237)","label":{"backgroundColor":"rgb(15, 22, 24)","textColor":"rgb(255, 255, 255)","standoutColor":"#0f1618","freeTextColor":"#dc191b","font":"'Open Sans', Arial, sans-serif","fontSize":"0.8125rem"},"categoryLink":{"backgroundColor":"rgb(15, 22, 24)"},"font":"'Open Sans', Arial, sans-serif"},"i18n":{"useV2":true},"gallery":{"showBody":true,"adEveryNItem":2},"tagLinks":{"displayLinksAfterArticle":true,"displayAllTagsByDefault":false,"tagsToInclude":["freeform"],"displayIndexedTagsOnly":true,"tagsToExclude":[],"displayGalleryTags":false,"displayCarouselTags":false},"enableAutoTagging":true,"parsely":{"enabled":true},"onesignal":{"enabled":true},"gtm":{"vanilla":true,"sitespecific":true},"raygun":{"enabled":false,"rum":false,"crashReporting":false},"thatswhy":{"enabled":false},"fps":{"enabled":false},"freyr":{"enabled":true},"stickyNavSearch":{"enabled":false},"flexiCriticalCss":{"enabled":true},"flexiAdvancedSearch":{"fields":["articleName","articleStrapline","articleSynopsis","articleBodyClean","articleAuthor"]},"elkBlockWrapper":{"productBlock":{"enabled":true}},"prettyReview":{"enabled":false},"newsletter":{"exitIntent":true,"homepage":false,"listing":true,"articleSidebar":false,"articleInbodyContent":true,"newsletterPage":true},"dianomi":{"enabled":false},"liveReport":{"redesign":false,"refresh":true,"sse":false},"howWeTestBlock":{"reviews":true,"buyingGuides":true},"pagination":{"legacyPagination404Redirects":false},"affiliateDisclaimer":{"homepage":false},"qualaroo":{"enabled":false},"authorListingUrlPrefix":"\/author\/","infiniteScroll":{"enabled":false},"breadcrumbs":{"enabled":true,"articleTypeBreadcrumb":{"enabled":false}},"categoryLinks":{"displayLinksAfterArticle":false},"chatbot":{"homepage":{"enabled":false}}};
+window.vanilla.featureFlags = Object.assign({}, defaultFlags, window.vanilla.featureFlags || {})
+window.vanilla.resourceBasePath = '//vanilla.futurecdn.net/pcgamer/media/shared/js/';
+window.vanilla.addScript = function(src, id, defer) {
+var script = window.document.createElement('script');
+script.src = src;
+script.async = true;
+if (!!defer) {
+script.defer = true;
+}
+script.id = id;
+window.document.head.appendChild(script);
+};
+window.vanilla.isArticle = false;

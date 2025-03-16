@@ -1,0 +1,2 @@
+ecbrStart('5058', '//a4p.adpartner.pro/jsunit/jsonp/v2?id=6513&unit_id=6513&place_id=6513&himg=200&location=http://ukr.net/', '');
+collectCommercialData('5058', null, '//a4p.adpartner.pro/jsunit/jsonp/v2?id=6513&unit_id=6513&place_id=6513&himg=200&location=http://ukr.net/', '', '');

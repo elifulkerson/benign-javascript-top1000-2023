@@ -1,0 +1,1 @@
+(function(){const bundleRange=`<link rel="stylesheet" type="text/css" href="//us-east-1-cdn-ui-k8s.motorsport.com/598/design/dist/css/app_home_home-page_2cde244121ed0cfcc9d2.css">`;document.addEventListener('DOMContentLoaded',(event)=>{$('head').append(bundleRange);});})();

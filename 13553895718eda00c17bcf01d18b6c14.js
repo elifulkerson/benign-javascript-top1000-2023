@@ -1,0 +1,1 @@
+window.DVWebNode=window.DVWebNode||{};DVWebNode.pageType='DVSignupOffer';DVWebNode.subPageType='offers';

@@ -1,0 +1,1 @@
+var isHttps="https:"==window.location.protocol,serviceWorkersSupported="serviceWorker"in window.navigator;isHttps&&serviceWorkersSupported&&window.addEventListener("load",function(){setTimeout(function(){window.navigator.serviceWorker.register("/sw.js").then(function(t){t.update()["catch"](function(){})})},100)});

@@ -1,0 +1,1 @@
+eventTracker.cmd.push(function(){eventTracker.trackClick(`[data-track="section-articles"] [data-track="card-article"]`,`articleClick`);eventTracker.trackClick(`[data-track="section-top-apps"] [data-track="app-item"]`,`programClick`)});

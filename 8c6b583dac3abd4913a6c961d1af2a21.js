@@ -1,0 +1,1 @@
+window._header_locale_ = {"cannot_find_page_reminder":"Lo sentimos, no encontramos esta página.\n","cannot_find_page_dec":"Pero tenemos mucho más para que descubras ~","backToHome":"Volver a la página de inicio"}

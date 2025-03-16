@@ -1,0 +1,1 @@
+document.write('<a target="_blank" href="https://bcad.jrj.com.cn/api/h5Click?appId=njrjPC&cid=NP2&pid=312&planId=4741&mid=6068&u=https%3A%2F%2Ffinance.jrj.com.cn%2Fcjrd.shtml" style="font-family:&#23435;&#20307;;color:#000000;font-size:12;text-decoration:none" onmouseover="this.style.color=\'#000000\'" onmouseout="this.style.color=\'#000000\'">深度解读财经焦点事件</a>');

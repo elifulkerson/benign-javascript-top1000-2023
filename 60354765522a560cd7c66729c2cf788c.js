@@ -1,0 +1,1 @@
+window.__PAGE_LOCALE__="EnUs"

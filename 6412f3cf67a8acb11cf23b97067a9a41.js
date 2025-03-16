@@ -1,0 +1,1 @@
+var base_url = $('meta[name="base"]').attr('content');

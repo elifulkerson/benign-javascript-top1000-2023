@@ -1,0 +1,1 @@
+var Mntl = window.Mntl || {};

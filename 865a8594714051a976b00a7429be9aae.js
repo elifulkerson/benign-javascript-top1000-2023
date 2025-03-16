@@ -1,0 +1,1 @@
+$(".hp-html-FINRA").attr("data-tmsid","finra00finra00HTML")

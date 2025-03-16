@@ -1,0 +1,1 @@
+gptDisplay('esx-home-magazinalt-1', 'esx-home-magazinalt', true)

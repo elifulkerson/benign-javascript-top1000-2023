@@ -1,0 +1,1 @@
+try{var setMDA=/wrap=mda/gi.test(window.location.search),isMDA=setMDA||"true"===window.sessionStorage.getItem("mda");setMDA&&window.sessionStorage.setItem("mda","true"),isMDA&&document.documentElement.classList.add("mda")}catch(e){console.log(e)}

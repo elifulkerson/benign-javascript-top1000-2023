@@ -1,0 +1,2 @@
+CBQueue.push(function(){	if(_GEO.country == "US" || _GEO.country == "CA"){	_ele('#kaltura-video-player').removeClass('disp-none');	}	if(_GEO.country == "IN" ){	_ele('specials-home-module').removeClass('disp-none');	}
+});

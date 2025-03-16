@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=live][db=ptr2]The Permanent Augment Rune has been added on the Patch 10.2 PTR, likely signifying that Patch 10.2 is likely the final major patch of Dragonflight!", "news-post-652cc2214cea62.09293090", {"allow":40,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335456,"stopAtBreak":1});

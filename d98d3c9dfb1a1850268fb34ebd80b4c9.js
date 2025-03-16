@@ -1,0 +1,1 @@
+(function (){window.dataLayer = window.dataLayer || [];})()

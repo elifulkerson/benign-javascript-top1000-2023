@@ -1,0 +1,1 @@
+window.__INITIAL_PATH__="\u002F"

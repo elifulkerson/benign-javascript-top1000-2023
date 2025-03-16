@@ -1,0 +1,1 @@
+document.write('<a target="_blank" href="https://bcad.jrj.com.cn/api/h5Click?appId=njrjPC&cid=NP2&pid=305&planId=4734&mid=6061&u=https%3A%2F%2Fwww.jrj.com.cn%2Flist%2Fdownload.shtml" style="font-family:&#23435;&#20307;;color:#000000;font-size:12;text-decoration:none" onmouseover="this.style.color=\'#000000\'" onmouseout="this.style.color=\'#000000\'">下载app看优质好内容</a>');

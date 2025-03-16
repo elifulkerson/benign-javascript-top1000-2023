@@ -1,0 +1,1 @@
+MynetAds.Gpt.display('masthead_970x250');

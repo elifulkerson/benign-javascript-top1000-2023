@@ -1,0 +1,1 @@
+document.domain = 'ultimate-guitar.com';

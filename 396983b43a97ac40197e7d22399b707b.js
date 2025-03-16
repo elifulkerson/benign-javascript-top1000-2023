@@ -1,0 +1,1 @@
+window.LANDER_SYSTEM="CP"

@@ -1,0 +1,1 @@
+INVEN.Ad.showMidMax('webzine');

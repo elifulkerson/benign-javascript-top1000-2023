@@ -1,0 +1,1 @@
+document.write('<a target="_blank" href="https://bcad.jrj.com.cn/api/h5Click?appId=njrjPC&cid=NP2&pid=311&planId=4740&mid=6067&u=https%3A%2F%2Fstock.jrj.com.cn%2Fztfp.shtml" style="font-family:&#23435;&#20307;;color:#000000;font-size:12;text-decoration:none" onmouseover="this.style.color=\'#000000\'" onmouseout="this.style.color=\'#000000\'">精准解读每一只涨停股</a>');

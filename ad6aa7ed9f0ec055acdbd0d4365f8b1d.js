@@ -1,0 +1,1 @@
+var pageLoadStartTime = +(new Date);

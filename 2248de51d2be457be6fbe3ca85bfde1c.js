@@ -1,0 +1,1 @@
+window.consent.resolveGroup(window.consent.PERFORMANCE_GROUP)

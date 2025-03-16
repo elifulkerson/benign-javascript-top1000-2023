@@ -1,0 +1,2 @@
+window.arcIdentityApiOrigin = "https://publicapi.elpais.com";window.arcSalesApiOrigin = "https://publicapi.elpais.com";window.arcSignInUrl = "/subscriptions";if (false || window.location.pathname.indexOf('/pf/') === 0)
+  { window.arcSignInUrl = "/pf" + window.arcSignInUrl + "?_website=el-pais"; }

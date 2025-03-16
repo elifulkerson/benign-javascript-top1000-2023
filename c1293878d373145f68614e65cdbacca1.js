@@ -1,0 +1,1 @@
+document.getElementById('c360-hgf-nav').setAttribute("show-button-secondary", vp.isCustomer());

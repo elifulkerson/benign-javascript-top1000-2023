@@ -1,0 +1,12 @@
+var upgj_w = window,
+    upgj_d = document,
+    upgj_e = upgj_d.documentElement,
+    upgj_g = upgj_d.getElementsByTagName('body')[0],
+    upgj_x = upgj_w.innerWidth || upgj_e.clientWidth || upgj_g.clientWidth,
+    upgj_y = upgj_w.innerHeight|| upgj_e.clientHeight|| upgj_g.clientHeight,
+	upgj_protocol = window.location.protocol,
+	upgj_host_name = window.location.hostname,
+	upgj_pathname = window.location.pathname,
+	upgj_queryString = window.location.search,
+	upgj_curent_url = document.URL,
+	upgj_path_list = upgj_pathname.split('/');

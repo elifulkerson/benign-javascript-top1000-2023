@@ -1,0 +1,1 @@
+function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }

@@ -1,0 +1,1 @@
+sam.cmd.push(function() { sam.display('bottom-mpu-home-page-desktop'); });

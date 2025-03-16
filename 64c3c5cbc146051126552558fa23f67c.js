@@ -1,0 +1,1 @@
+splashRadar('leftcol', 1);

@@ -1,0 +1,1 @@
+if (typeof(WH.ads) !== 'undefined') {WH.ads.addHPRR('mp_rr_ad');}

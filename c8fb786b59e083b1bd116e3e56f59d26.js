@@ -1,0 +1,1 @@
+window.addLoadEvent=function(n){if("function"===typeof window.addEventListener)window.addEventListener("load",n);else if("function"===typeof window.onload){var o=window.onload;window.onload=function(d){o(d),n(d)}}else window.onload=n};window.addLoadEvent(function(n){window.addLoadEvent=function(o){o(n)}});

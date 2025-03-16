@@ -1,0 +1,1 @@
+window.DTM = window.DTM || {}; window.DTM.config = window.DTM.config || {}; window.DTM.config.atg_enabled = true;

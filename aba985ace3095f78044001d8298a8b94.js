@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=d4]Blizzard is nerfing Critical Strike Damage and Vulnerable Damage in Diablo 4 - and it is the best change coming to the game since its release. Why? Check out our in-depth analysis!", "news-post-652cc221606295.27331147", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335487,"stopAtBreak":1});

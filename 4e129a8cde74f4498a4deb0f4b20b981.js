@@ -1,0 +1,3 @@
+window.adobeDataLayer.push({
+          page: {"event":"page_view","pageType":"home","contentType":null,"articleType":null,"headline":null,"channelName":null,"sectionName":null,"subSectionName":null,"author":null,"createdDate":"2023-10-14T16:31:02+0530","lastModified":"2023-10-14T13:54:32+0530","articleWordCount":0,"imgCount":0,"ytVideoCount":0,"bcVideoCount":0,"articleTags":null,"articleId":null}
+       });

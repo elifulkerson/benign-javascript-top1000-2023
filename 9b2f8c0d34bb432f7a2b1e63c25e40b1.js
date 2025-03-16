@@ -1,0 +1,1 @@
+window.viva_base_url = "https://www.viva.co.id";window.csrf="qz6PNx24RtOS5ASpDU1y2KIqxPMarAELA03P84U1";

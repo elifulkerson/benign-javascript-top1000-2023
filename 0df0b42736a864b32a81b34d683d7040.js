@@ -1,0 +1,1 @@
+_tLAB.wait(function(){__reactServerClientController.nodeArrival(29,29)});

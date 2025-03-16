@@ -1,0 +1,1 @@
+document.body.insertAdjacentHTML("beforeend","<style>body { visibility: visible !important;}</style>")

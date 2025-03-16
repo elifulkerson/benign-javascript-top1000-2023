@@ -1,0 +1,1 @@
+"true"==((window.localStorage||{getItem:function(){},setItem:function(){}}).getItem("isClassicDefault")||"false")&&(window.location.href="http://www.sohu.com/classic?spm=smpc.home.classic-user.0.0")

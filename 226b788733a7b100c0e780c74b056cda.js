@@ -1,0 +1,1 @@
+window.__INTERNATIONAL__ = {"currency":{"symbol":"USD"}};

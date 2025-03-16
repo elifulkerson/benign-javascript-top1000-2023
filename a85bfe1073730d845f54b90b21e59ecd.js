@@ -1,0 +1,2 @@
+function e(e,t,n=!0){return new CustomEvent(e,{composed:!0,bubbles:n,cancelable:!0,detail:t})}let t=!0;const n=[];function a(e){t&&n.push(e)}window.addEventListener("faceplate-alert",a),window.setTimeout((()=>{if(t=!1,window.removeEventListener("faceplate-alert",a),n.length)for(const t of n)t.target&&window.navigator.onLine&&t.target.dispatchEvent(e("faceplate-alert",t.detail))}),5e3);
+;

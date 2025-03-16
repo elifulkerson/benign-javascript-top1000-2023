@@ -1,0 +1,1 @@
+window.captchaPublicKey = '6LeJFcsUAAAAAPsIEqvB1EebWbZfqRUe6ebMpGy7';

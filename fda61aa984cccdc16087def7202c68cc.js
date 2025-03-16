@@ -1,0 +1,1 @@
+window.onerror = function(message, file, line) {	var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;	dataLayer.push({'EventAction': "Application",'EventLabel': sFormattedMessage,'event': 'Exceptions'});	}

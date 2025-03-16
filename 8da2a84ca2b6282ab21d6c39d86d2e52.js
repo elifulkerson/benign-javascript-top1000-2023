@@ -1,0 +1,1 @@
+window.bdmpData = window.bdmpData || [];function bdmp(){bdmpData.push(arguments);}bdmp("initAt", new Date());bdmp("projectId", "bl2ok5med65lk2");

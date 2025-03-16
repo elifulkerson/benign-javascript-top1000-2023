@@ -1,0 +1,1 @@
+window.hawk_widgets_endpoint="https://hawky.pcgamer.com";window.hawklinks_endpoint="https://hawky.pcgamer.com";window.hawk_api_endpoint="https://hawky.pcgamer.com";

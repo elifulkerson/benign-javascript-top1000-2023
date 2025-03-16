@@ -1,0 +1,28 @@
+(function(a,b){a.GoogleAnalyticsObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=1*new Date})(window,"meli_ga");
+meli_ga("set", "title", "app-homes-palpatine-nodejs-4.1.2");
+meli_ga("set", "page", "/HOME/MAIN/");
+meli_ga("set", "contentGroup1", "/NONE/HOME/MAIN/");
+meli_ga("set", "contentGroup2", "/NONE/HOME/MAIN/");
+meli_ga("set", "contentGroup3", "/NONE/HOME/MAIN/");
+meli_ga("set", "dimension1", "desktop");
+meli_ga("set", "dimension7", "NONE");
+meli_ga("set", "dimension8", "NONE");
+meli_ga("set", "dimension76", "true");
+meli_ga("set", "dimension25", "{'frontend/assetsCdnDomainMLV':'DEFAULT','melidata/homesDummyWeb':'2487'}");
+meli_ga("send", "pageview");
+(function(d, win) {
+      win['GA-user-traceability-consent'] = true;
+      var i = d.createElement('iframe');
+      (i.frameElement || i).style.cssText = 'width: 0; height: 0; border: 0; position: absolute';
+      i.src = "about:srcdoc";
+      i.srcdoc="\<script\ nonce='1DhIfs5t5n2cKACz8MxlCw==' src='https://http2.mlstatic.com/analytics/ga/mlv-ml-analytics.min.js'>\</script\>";
+      i.id = "GoogleAnalyticsIframe";
+      var w = d.getElementsByTagName('script')[0];
+      w.parentNode.insertBefore(i, w);
+      var doc = i.contentWindow.document;
+      var s = doc.createElement('script');
+      s.nonce = '1DhIfs5t5n2cKACz8MxlCw==';
+      s.type = 'text/javascript';
+      s.text ='window.inDapIF = true;';
+      doc.documentElement.appendChild(s);
+    })(document, window);

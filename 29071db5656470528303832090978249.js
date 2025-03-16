@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=d4]Use Wowhead's News Webhook for Discord to receive the latest Diablo 4 news updates on your Discord server - or separate game news by franchise!", "news-post-652cc2216298c8.25213731", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335511,"stopAtBreak":1});

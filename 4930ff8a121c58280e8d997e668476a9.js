@@ -1,0 +1,6 @@
+(function () {
+            function d(b, c, e) { var a = document.createElement("script"); a.type = "text/javascript"; a.async = !0; a.src = b; 2 <= arguments.length && (a.onload = c, a.onreadystatechange = function () { 4 != a.readyState && "complete" != a.readyState || c() }); a.onerror = function () { if ("undefined" != typeof e) try { e() } catch (g) { } }; document.getElementsByTagName("head")[0].appendChild(a) } function f() {
+                if ("undefined" == typeof window.ADMStorageFileCDN) setTimeout(function () { f() }, 500); else if ("undefined" != typeof window.ADMStorageFileCDN.corejs &&
+                    "undefined" != typeof window.ADMStorageFileCDN.chkCorejs && 0 == window.ADMStorageFileCDN.chkCorejs) if (window.ADMStorageFileCDN.chkCorejs = !0, "string" == typeof window.ADMStorageFileCDN.corejs) d(window.ADMStorageFileCDN.corejs); else if ("undefined" != typeof window.ADMStorageFileCDN.corejs) for (var b = 0, c = window.ADMStorageFileCDN.corejs.length; b < c; b++)d(window.ADMStorageFileCDN.corejs[b])
+            } f()
+        })();

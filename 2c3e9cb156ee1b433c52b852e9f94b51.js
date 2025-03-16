@@ -1,0 +1,3 @@
+window.__get_croco_version_map__ = function(){
+            return {"@alife/ocms-layout-1688-wap-layout-common":[{"usedBy":"thisPage","semver":"1.0.7","realVerson":"1.0.7"},{"usedBy":"thisPage","semver":"1.0.7","realVerson":"1.0.7"},{"usedBy":"thisPage","semver":"1.0.7","realVerson":"1.0.7"},{"usedBy":"thisPage","semver":"1.0.7","realVerson":"1.0.7"},{"usedBy":"thisPage","semver":"1.0.7","realVerson":"1.0.7"}],"@alife/ocms-fusion-1688-pc-ocms-fusion-comp-data":[{"usedBy":"thisPage","semver":"1.0.0","realVerson":"1.0.0"},{"usedBy":"thisPage","semver":"1.0.0","realVerson":"1.0.0"},{"usedBy":"thisPage","semver":"1.0.0","realVerson":"1.0.0"},{"usedBy":"thisPage","semver":"1.0.0","realVerson":"1.0.0"},{"usedBy":"thisPage","semver":"1.0.0","realVerson":"1.0.0"}]};
+          }

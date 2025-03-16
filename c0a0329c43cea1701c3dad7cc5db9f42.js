@@ -1,0 +1,1 @@
+window.allScripts = window.allScripts || []; window.allScripts.push({ type: "gdpr", script: "%3Cscript%0A%20%20%20%20async%0A%20%20%20%0A%20%20%20%20data-consent%3D%22MARKETING%22%0A%20%20%20%20src%3D%22https%3A%2F%2Fpub.doubleverify.com%2Fdvtag%2F23280644%2FDV673672%2Fpub.js%22%0A%20%20%3E%3C%2Fscript%3E" });

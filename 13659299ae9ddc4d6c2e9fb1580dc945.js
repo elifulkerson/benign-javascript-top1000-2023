@@ -1,0 +1,1 @@
+var ga=function(){};ga.getAll=function(){return{filter:function(){return[{set:function(e,t){e&&t&&(window.ga_forward={property:e,value:t})}}]}}}

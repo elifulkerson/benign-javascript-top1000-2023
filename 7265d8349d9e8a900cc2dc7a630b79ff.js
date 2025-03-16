@@ -1,0 +1,1 @@
+MynetAds.Gpt.display('sidebar_300x250_2');

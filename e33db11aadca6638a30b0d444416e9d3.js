@@ -1,0 +1,1 @@
+$("#pic_list_1").cxScroll();

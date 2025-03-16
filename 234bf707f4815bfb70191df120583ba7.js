@@ -1,0 +1,1 @@
+(function carouselBtf(d, w) {var p = d.getElementById("460400ba-46aa-49c9-9944-43386d2f7e13-btfCarouselContent"), h = p && p.innerHTML, v = h ? [h] : []; w.GWData = w.GWData || {}; w.GWData['460400ba-46aa-49c9-9944-43386d2f7e13'] = { loaded: false, data: v }; }(document, window));

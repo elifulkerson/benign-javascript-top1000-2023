@@ -1,0 +1,1 @@
+window.zdconsent = window.zdconsent || {'run': [], 'cmd':[], 'analytics':[], 'functional':[], 'social':[]};

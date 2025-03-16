@@ -1,0 +1,1 @@
+window.loginBlockHtml=ById('loginBlock').innerHTML;if(info.isLogin){waiting('loginBlock');ById('header').className='auth'}

@@ -1,0 +1,22 @@
+var arrPostCat = new Array();
+    var arrPostCatName="GBlog";
+            arrPostCat.push('1710');
+        var tIds = "1710,4968";
+    var domain = 1;
+    var arrPost = new Array();
+    var post_id = "0";
+    var post_type = "post";
+    var post_slug = window.location.href;
+    var ip = "64.252.72.155";
+    var post_title = "Geek Week 2023: Score a Career Six with GFG Courses";
+    var post_status = "publish";
+    var practiceAPIURL="https://practiceapi.geeksforgeeks.org/";
+    var practiceURL="https://practice.geeksforgeeks.org/";
+    var post_date = "2023-10-12 17:44:14";
+    var commentSysUrl = "https://discuss.geeksforgeeks.org/commentEmbedV2.js";
+    //var postAdApiUrlString = "";
+    var link_on_code_run = '';
+    var link_search_modal_top = '';
+            var isAdminLoggedIn = 0;
+        
+        var postAdApiUrlString = '1710/4968/';

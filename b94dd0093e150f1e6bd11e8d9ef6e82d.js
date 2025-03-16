@@ -1,0 +1,1 @@
+window.ioAnalyticsConfig={"page_url":"https:\/\/www.express.co.uk\/","page_title":"Latest UK and World News, Sport and Comment - Express.co.uk","page_type":"main","page_language":"en"}

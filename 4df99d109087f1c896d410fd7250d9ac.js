@@ -1,0 +1,1 @@
+call_pu_json(prefijoSeccion + '_ITT_690x0', "nueveseiscero_seisochocero", blockCampaignState, keywordEspecial, "");

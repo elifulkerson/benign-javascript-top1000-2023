@@ -1,0 +1,1 @@
+window._abtasty = window._abtasty || [];window.abtiming = window.abtiming || new Date().getTime();

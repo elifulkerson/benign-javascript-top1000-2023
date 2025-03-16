@@ -1,0 +1,1 @@
+!function(c,a){c.asc=c.asc||{},c.asc.cmd=c.asc.cmd||[]}(window,document);

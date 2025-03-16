@@ -1,0 +1,1 @@
+MynetAds.Gpt.display('advertorial_manset_2_oop');

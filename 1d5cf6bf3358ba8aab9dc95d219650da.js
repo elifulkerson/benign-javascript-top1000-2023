@@ -1,0 +1,1 @@
+artemisRequire([['home', 'homeModule']], function(customModule) { customModule && typeof customModule.init === 'function' && customModule.init(); });

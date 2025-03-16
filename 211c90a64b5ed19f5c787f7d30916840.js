@@ -1,0 +1,1 @@
+window.xkeys = {"platform":"responsive","page":"homepage","region":"US"};

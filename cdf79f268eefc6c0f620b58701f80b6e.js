@@ -1,0 +1,25 @@
+var android = location.href.match(/#android$/) || navigator.userAgent.match(/Android/i) != null;
+    $.smartbanner({
+		title: 'Fidelity',
+		author: 'Fidelity Investments',
+		icon: 'https://www.fidelity.com/bin-public/060_www_fidelity_com/images/homepage/Fid_AndroidLogo.png',
+		appStoreLanguage: 'us', 
+                appStoreLink : '',
+                playStoreLink : '',
+		force: null,
+		appAndriod : true,
+		appWindows : true,
+		daysHidden:1,
+		daysReminder:1,
+		button: 'View',
+		url: null, 
+		scale: 'auto', 
+		speedIn: 300, 
+		speedOut: 400, 
+		hideOnInstall: false, 
+		layer: false, 
+		iOSUniversalApp: true, 
+		appendToSelector: 'body', 
+		pushSelector: 'html',
+		dataTCMid : 'offers00smartBanner00SB'
+    });

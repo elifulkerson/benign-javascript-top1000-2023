@@ -1,0 +1,1 @@
+(adsbyeclick=window.adsbyeclick||[]).push({})

@@ -1,0 +1,1 @@
+window.renderStack = [{"component":"Home","config":{"content":{"type":"Home"}},"original-media":"webpage","__initiator__":true}];

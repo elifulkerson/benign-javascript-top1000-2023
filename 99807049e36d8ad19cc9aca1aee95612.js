@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[4716],{44706:function(e,t,n){n.r(t);var r=n(2784),_=n(33914),a=n(65610);t.default=function(e){var t=e.component;if(!t)return null;var n=(0,a.Jm)(t.fieldParagraphs);return r.createElement(_.jk,{items:n},n&&n.map((function(e,t){return r.createElement(r.Fragment,{key:e.props.component.entityUuid},e)})))}}}]);
+//# sourceMappingURL=dataComponents-StatsData-e62deff68ae067ae1431.js.map

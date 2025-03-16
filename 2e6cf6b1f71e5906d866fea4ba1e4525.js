@@ -1,0 +1,1 @@
+window.jQuery || document.write('<script src="https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/js/website/shared/libraries/jquery-1.11.0.min.daf47dbdebc0881066106b1dda1c9db3.gz.js"><\/script>')

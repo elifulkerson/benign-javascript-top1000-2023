@@ -1,0 +1,1 @@
+var ad_delay_by = '2000';	/* Ad delay by n seconds */

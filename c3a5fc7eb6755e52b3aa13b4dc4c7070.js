@@ -1,0 +1,18 @@
+window.vanilla = window.vanilla || {};
+window.VAN = window.VAN || {};
+// For AB testing
+// list of feature flags is available @ https://purch1.atlassian.net/wiki/spaces/SUPPORT/pages/10863312897/Feature+Flags
+var defaultFlags = {"suggestionBox":{"enabled":true},"regionRedirect":{"enabled":true},"navSubscribe":{"enabled":true},"jsCookie":{"enabled":true},"selligent":{"enabled":true},"jwplayer":{"carousel":{"enabled":true,"IDs":{"playerID":"APjl6osP","searchPlaylistID":"1v6djO3j","divID":"botr_1v6djO3j_APjl6osP_div","fallbackPlaylistID":"KgQ4BrDw","fallbackDivID":"botr_KgQ4BrDw_APjl6osP_div","key":"ZuubZ0qo8PC91SeYBvrz9lq0zFhLM446gwRNTJacILQ18liS","tintLogo":true,"useSearchPlaylist":false}},"sidebar":false,"voucher":{"enabled":false},"stickyPlayer":{"whitenStickyLogo":true},"typeUsed":{"JWPLAYER_CAROUSEL_DESKTOP":"ALL_GEOS","JWPLAYER_CAROUSEL_MOBILE":"ALL_GEOS","DIGITEKA_CAROUSEL_DESKTOP":"NEVER","DIGITEKA_CAROUSEL_MOBILE":"NEVER","JWPLAYER_EDITORIAL_MOBILE":"ALL_GEOS"}},"stickyPrimaryNav":{"enabled":true,"mobileOn":true,"desktopOn":false},"stickyNavSearch":{"enabled":true},"sponsoredPost":{"label":{"backgroundColor":"#e6248a","standoutColor":"#e6248a","freeTextColor":"#e6248a","useBorderAccentColor":true,"font":"'Open Sans', Arial, sans-serif","fontSize":"0.8125rem","textColor":"#333"},"categoryLink":{"backgroundColor":"#e6248a"},"titleFont":"'Open Sans', Arial, sans-serif","font":"'Open Sans', Arial, sans-serif","bgColor":"#fff"},"prettyReview":{"enabled":true},"i18n":{"useV2":true},"gallery":{"showBody":true,"adEveryNItem":2},"breadcrumbs":{"articleTypeBreadcrumb":{"enabled":true},"enabled":true},"primaryCategory":{"enabled":true},"tagLinks":{"displayLinksAfterArticle":true,"displayAllTagsByDefault":false,"tagsToInclude":["freeform"],"displayIndexedTagsOnly":true,"tagsToExclude":[],"displayGalleryTags":false,"displayCarouselTags":false},"enableAutoTagging":true,"header":{"class":"header-v2"},"parsely":{"enabled":true},"onesignal":{"enabled":true},"gtm":{"vanilla":true,"sitespecific":true},"raygun":{"enabled":false,"rum":false,"crashReporting":false},"thatswhy":{"enabled":false},"fps":{"enabled":false},"freyr":{"enabled":true},"flexiCriticalCss":{"enabled":true},"flexiAdvancedSearch":{"fields":["articleName","articleStrapline","articleSynopsis","articleBodyClean","articleAuthor"]},"elkBlockWrapper":{"productBlock":{"enabled":true}},"newsletter":{"exitIntent":true,"homepage":false,"listing":true,"articleSidebar":false,"articleInbodyContent":true,"newsletterPage":true},"dianomi":{"enabled":false},"liveReport":{"redesign":false,"refresh":true,"sse":false},"howWeTestBlock":{"reviews":true,"buyingGuides":true},"pagination":{"legacyPagination404Redirects":false},"affiliateDisclaimer":{"homepage":false},"qualaroo":{"enabled":false},"authorListingUrlPrefix":"\/author\/","infiniteScroll":{"enabled":false},"categoryLinks":{"displayLinksAfterArticle":false},"chatbot":{"homepage":{"enabled":false}},"disableLatestNewsExclusion":true};
+window.vanilla.featureFlags = Object.assign({}, defaultFlags, window.vanilla.featureFlags || {})
+window.vanilla.resourceBasePath = '//vanilla.futurecdn.net/techradar/media/shared/js/';
+window.vanilla.addScript = function(src, id, defer) {
+var script = window.document.createElement('script');
+script.src = src;
+script.async = true;
+if (!!defer) {
+script.defer = true;
+}
+script.id = id;
+window.document.head.appendChild(script);
+};
+window.vanilla.isArticle = false;

@@ -1,0 +1,1 @@
+document.write(window.ui.browser + " " + window.ui.version);

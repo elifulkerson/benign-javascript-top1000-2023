@@ -1,0 +1,1 @@
+window.hydrationQueue=window.hydrationQueue||[];const hydrateCatalogItem=(moduleName,moduleData)=>{if(typeof moduleName==='string'){const obj={[moduleName]:moduleData,};window.hydrationQueue.push(obj)}}

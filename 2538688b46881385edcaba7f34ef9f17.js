@@ -1,0 +1,10 @@
+document.write("<scr"+"ipt type='text/javascr"+"ipt' >") ;
+document.write("window.dataLayer = window.dataLayer || [] ; ");
+document.write("window.dataLayer.push({     'userData': {        'userId': '',        'loginType': '',        'loginStatus': 'logout'    } }); ");
+document.write("</script>");
+document.write("<scr"+"ipt src='https://image.donga.com/donga/js.v.1.0/GAbuilder.js?t=20230828'></scr"+"ipt>") ;
+document.write("<scr"+"ipt type='text/javascr"+"ipt' >") ;
+document.write("gabuilder = new GAbuilder('GTM-PCVCHHT') ;");
+document.write("let pageviewObj = {     'up_login_status' : 'N','title' : '홈｜동아일보' };");
+document.write("gabuilder.GAScreen(pageviewObj);");
+document.write("</scr"+"ipt>");

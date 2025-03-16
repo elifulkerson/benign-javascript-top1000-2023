@@ -1,0 +1,1 @@
+(function(d,s,id,h,t){var js,r,djs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) {return;}js = d.createElement('script');js.id =id;js.async=1;js.h=h;js.t=t;r=encodeURI(btoa(d.referrer));js.src='//'+h+'/pixel/js/'+t+'/'+r;djs.parentNode.insertBefore(js, djs);}(document, 'script', 'dogtrack-pixel','zrtv.spxl.socy.es', 'ZRTV_390_0297_636'));

@@ -1,0 +1,1 @@
+$('#afisha').html('<iframe sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" src="//kinoafisha.ua/widget/ukrnet_ua.html?rnd='+Date.now()+'" width="300" height="200" frameBorder="0" scrolling="no" loading="lazy"></iframe>');

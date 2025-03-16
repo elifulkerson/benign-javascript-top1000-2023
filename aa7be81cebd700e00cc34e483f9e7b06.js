@@ -1,0 +1,1 @@
+window.polymerLocale = 'en-US'; window.polymerLocalePath = 'https://cdn.motor1.com/kp/static4ui/prod_v2_eks_new_104/polymer2/locales1697109445/en-US.json'; var jsVars = {"services":{"brealtime":{"load":0,"id":"12851701"}},"ads":{"dfp":{"id":"6122441"}},"ui":{"auto_infinite_scroll":true}};

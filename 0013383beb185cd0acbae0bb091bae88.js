@@ -1,0 +1,1 @@
+document.write('<span class=\'btn_save\'>검색어 저장 <button type=\'button\' class=\'save\' data-save=\'Y\'>끄기</button></span>');

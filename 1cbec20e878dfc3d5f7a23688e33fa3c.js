@@ -1,0 +1,1 @@
+window.yaParams={"ads":true,"fmt":"html"}

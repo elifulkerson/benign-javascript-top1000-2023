@@ -1,0 +1,9 @@
+window.AsanaStorage.setCookie(
+      "logged_out_uuid",
+      "cdf6f5870b26dc7f68960993d046342d",
+      "C0002",
+      30,
+      true,
+      "",
+      "None",
+    );

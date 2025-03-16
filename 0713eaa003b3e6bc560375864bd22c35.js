@@ -1,0 +1,1 @@
+function burryCode(o){Number(o);var n=["9635","9636","9637","9638"][o],d="";window.sohuSpm&&"function"==typeof window.sohuSpm.getCodes&&(d=window.sohuSpm.getCodes().a+"."+window.sohuSpm.getCodes().b+"."+window.sohuSpm.getCodes().c),n&&window.sohuSpm&&"function"==typeof window.sohuSpm.sendAction&&window.sohuSpm.sendAction({acode:n,clickParam:"",spm:d})}

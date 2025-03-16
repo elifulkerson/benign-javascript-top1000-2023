@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=live]If you're still behind on your Trader's Tender, an easy 250 Trading Post Points can be earned just by participating in this year's Great Gnomeregan Run event!", "news-post-652cc22161e9b1.54229454", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335463,"stopAtBreak":1});

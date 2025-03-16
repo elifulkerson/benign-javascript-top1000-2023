@@ -1,0 +1,1 @@
+var _ga_asset_number = Math.floor(Math.random()*(11-1)+1);

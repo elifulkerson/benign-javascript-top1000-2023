@@ -1,0 +1,1 @@
+var BlzCookieConsent = JSON.parse('{"host":".blizzard.com","cookieInfoUrlPattern":"/cookies/?$","onetrustScriptUrl":"https://cdn.cookielaw.org/scripttemplates/otSDKStub.js","onetrustDomainScript":"22011b0f-2c46-49a3-a7bf-5f98a4d4da65"}');

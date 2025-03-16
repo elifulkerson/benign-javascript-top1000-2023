@@ -1,0 +1,1 @@
+M.state.advert.slots = []

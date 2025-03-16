@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[1223],{92177:function(e,l,t){t.r(l),t.d(l,{default:function(){return n}});var _=t(27378),i=t(38303),n=e=>{var{title:l,isVisible:t=!1}=e;return _.createElement(i.Z,{level:"1",fontScale:"headlineLarge",isVisuallyHidden:!t},l)}}}]);

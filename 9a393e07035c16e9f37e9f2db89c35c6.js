@@ -1,0 +1,10 @@
+var g_config = window.g_config || {};
+    g_config.webww = false;
+    g_config.jstracker2 = g_config.jstracker2 || {};
+    g_config.jstracker2.sampling = 1;
+    g_config.jstracker2.p_sampling = 1;
+    g_config.jstracker2.collection_url = 'https://error.taobao.com/app/tbhome/common/error.html';
+    g_config.jstracker2.webww = false;
+    g_config.jstracker2.whiteScreen = {};
+    g_config.jstracker2.whiteScreen.uploadInnerHtml = true;
+    g_config.jstracker2.whiteScreen.checkWhenUnload = true;

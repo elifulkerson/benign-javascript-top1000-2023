@@ -1,0 +1,1 @@
+var SugPara, uigs_para, msBrowserName = navigator.userAgent.toLowerCase(),msIsSe = false,msIsMSearch = false, hasDoodle = false, queryinput = document.getElementById('query');

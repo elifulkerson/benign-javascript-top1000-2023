@@ -1,0 +1,1 @@
+(function() { window.yelp.critical_css.recordDone=function(c,l){l.onload=null;var i=window.yelp.critical_css.css_map[c];window.yelp.critical_css.css_map[c]=i&&Object.keys(i).length?i:{loaded:!1,linkTag:l}}; })()

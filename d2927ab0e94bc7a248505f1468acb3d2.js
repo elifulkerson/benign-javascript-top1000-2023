@@ -1,0 +1,3 @@
+var trackingPageInfo = {
+    action: 'Page'
+};

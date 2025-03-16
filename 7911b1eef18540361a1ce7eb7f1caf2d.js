@@ -1,0 +1,1 @@
+$("[data-tipsy='tipsy-n']").tipsy({fade:!0,gravity:"n",html:!0}),$("[data-tipsy='tipsy-e']").tipsy({fade:!0,gravity:"e"}),$("[data-tipsy='tipsy-s']").tipsy({fade:!0,gravity:"s"}),$("[data-tipsy='tipsy-w']").tipsy({fade:!0,gravity:"w"});

@@ -1,0 +1,1 @@
+function handleFacadeExperimentInfo(data) { window.Grammarly = data || {} }

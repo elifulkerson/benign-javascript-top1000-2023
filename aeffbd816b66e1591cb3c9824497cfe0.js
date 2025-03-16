@@ -1,0 +1,3 @@
+$(function () {
+        sinkScene.initData('{"banner_big_url":"https:\/\/upload.gtarcade.com\/gtarcade\/2023\/0519\/160538726.png","banner_small_url":"https:\/\/upload.gtarcade.com\/gtarcade\/2023\/0519\/160538527.png","join_text":"FOLLOW US","join_url":"http:\/\/v3m.gtarcade.com\/?q=5cd15f41abd211391188","home_text":"JOIN BATTLE","home_url":"http:\/\/v3m.gtarcade.com\/?q=5cd15f41abd211391188"}');
+    })

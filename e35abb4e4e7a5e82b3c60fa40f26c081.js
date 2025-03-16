@@ -1,0 +1,1 @@
+!function(t){"use strict";try{var e=[{"id":723233,"accurateTrackBounce":10000,"trackLinks":true,"experiments":"31GSMwFNbBrnT6BL3MyrUg"}];t.metrikaCounterInstances={};for(var r=0;r<e.length;r++){var a=e[r],n=t["yaCounter"+a.id]=new Ya.Metrika(a);r||(t.defaultMetrikaCounter=n),t.metrikaCounterInstances[a.id]=n}}catch(i){}}(window);

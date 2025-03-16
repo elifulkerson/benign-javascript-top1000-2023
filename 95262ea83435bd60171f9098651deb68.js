@@ -1,0 +1,1 @@
+window.s2RouteName = "HOME";

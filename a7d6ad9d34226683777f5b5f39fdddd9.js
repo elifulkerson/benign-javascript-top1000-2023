@@ -1,0 +1,1 @@
+(PAGEVARS=window.PAGEVARS||[]).push(["facebook",{app_id:776605462513893}],["debug",false],["device","desktop"])

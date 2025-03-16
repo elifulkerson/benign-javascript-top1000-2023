@@ -1,0 +1,1 @@
+NativeAdPub.push({ domain: 'eksisozluk.nativespot.com', target: '10901' , id: 'nativespot-unit-10901'});

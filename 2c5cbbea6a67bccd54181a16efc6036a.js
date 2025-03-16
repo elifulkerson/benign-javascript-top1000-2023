@@ -1,0 +1,3 @@
+$(function(){
+				$('select.regularSelect').tzSelect();
+			});

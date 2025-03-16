@@ -1,0 +1,2 @@
+(function(){let purl=window.location.href;let url='//ads.pubmatic.com/AdServer/js/pwt/156997/3236';let profileVersionId='';if(purl.indexOf('pwtv=')>0){let regexp=/pwtv=(.*?)(&|$)/g;let matches=regexp.exec(purl);if(matches.length>=2&&matches[1].length>0){profileVersionId='/'+matches[1]}}
+let wtads=document.createElement('script');wtads.async=!0;wtads.type='text/javascript';wtads.src=url+profileVersionId+'/pwt.js';let node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(wtads,node)})()

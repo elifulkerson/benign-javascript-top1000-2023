@@ -1,0 +1,1 @@
+window.reCaptchaLoaded=function(){window.isReCaptchaApiLoaded=true}

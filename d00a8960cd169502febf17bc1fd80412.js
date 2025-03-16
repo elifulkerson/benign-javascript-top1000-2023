@@ -1,0 +1,1 @@
+var CLMB_DATA_POSITION = [];

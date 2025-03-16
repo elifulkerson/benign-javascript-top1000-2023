@@ -1,0 +1,1 @@
+window.spm_page_id = 'bgpc_indexnewest' // 所属页面变量

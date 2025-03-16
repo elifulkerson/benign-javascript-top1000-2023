@@ -1,0 +1,9 @@
+window.REBELMOUSE_BASE_ASSETS_URL = "https://www.narcity.com/static/dist/social-ux/";
+        window.REBELMOUSE_BASE_SSL_DOMAIN = "https://www.narcity.com";
+        window.REBELMOUSE_TASKS_QUEUE = [];
+        window.REBELMOUSE_LOW_TASKS_QUEUE = [];
+        window.REBELMOUSE_LOWEST_TASKS_QUEUE = [];
+        window.REBELMOUSE_ACTIVE_TASKS_QUEUE = [];
+        window.REBELMOUSE_STDLIB = {};
+        window.RM_OVERRIDES = {};
+        window.RM_AD_LOADER = [];

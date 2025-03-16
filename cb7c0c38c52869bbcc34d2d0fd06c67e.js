@@ -1,0 +1,1 @@
+window.self !== window.top && window.top.document.domain !== 'webvisor.com' ? location.href = 'https://www.gismeteo.ru/page/agreement/' : void(0);

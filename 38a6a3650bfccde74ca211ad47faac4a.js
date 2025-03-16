@@ -1,0 +1,1 @@
+if(upgj_x <= 800){googletag.cmd.push(function() { googletag.display('FooterFixed'); });}

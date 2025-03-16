@@ -1,0 +1,1 @@
+window.DXCONFIG=window.DXCONFIG||{"features":{"tcfVersion":"2","GDPRConsentV2Enabled":"true","tcfVersionOne":"false","assetsHost":"https://cdn.images.express.co.uk/theme/Responsive/js/","assetsVersion":"20231010","useHybridTcf":"false",}}

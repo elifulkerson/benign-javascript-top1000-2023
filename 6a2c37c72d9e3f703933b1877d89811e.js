@@ -1,0 +1,1 @@
+window.addEventListener("DOMContentLoaded",()=>{ExpressApp.Taboola.isHomepage=!0})

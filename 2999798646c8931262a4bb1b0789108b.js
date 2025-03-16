@@ -1,0 +1,1 @@
+(new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*rambler_ad/ru/UTF-8/tmsec=rambler_cid1100108-posid2155106/' + Math.round(Math.random()*1E9);

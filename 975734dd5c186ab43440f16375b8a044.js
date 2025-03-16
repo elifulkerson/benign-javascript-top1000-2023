@@ -1,0 +1,1 @@
+window.COOKIES_STATIC_HOST="https://static.files.bbci.co.uk/cookies/1098fb404f038cacf92f0ee250c025a0/cookie-banner/cookie-prompt/"

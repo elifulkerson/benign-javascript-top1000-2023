@@ -1,0 +1,1 @@
+window.blockthrough = window.blockthrough || { aa_detect_cmd: [] };

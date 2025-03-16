@@ -1,0 +1,1 @@
+if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) document.write('<script src="https://www.huffpost.com/static-assets/cambria/app/ie.05375196dad8e95a695d.js"></scr'+'ipt>');

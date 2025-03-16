@@ -1,0 +1,1 @@
+var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"6035737"});(function(){let s=document.createElement("script");let el=document.getElementsByTagName("script")[0];s.async=!0;s.src="https://sb.scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el)})()

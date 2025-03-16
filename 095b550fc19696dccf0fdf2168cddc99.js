@@ -1,0 +1,1 @@
+adverts.addToArray({"pos":"mpu_home"})

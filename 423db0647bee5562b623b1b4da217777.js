@@ -1,0 +1,1 @@
+window['Genius.ads'] = window['Genius.ads'] || [];

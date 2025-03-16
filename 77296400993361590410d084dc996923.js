@@ -1,0 +1,2 @@
+/* global: ensemble is from dws-ensemble-appshell. */
+        ensemble.processChunk("embedded-app", "const_module-14", function(){ensemble.defineConstModule("metaserver/static/js/modules/constants/campaigns_pap_logging", "bf7b6a2b4e209f24dfa47b1cbb10dec4abcb50ad", {"MEGAPHONE_EVENTS_PAP_LOGGER_MIGRATION": true, "__esModule": true})});

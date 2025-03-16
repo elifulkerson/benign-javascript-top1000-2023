@@ -1,0 +1,1 @@
+window.ANALYTICS = {"ab":"0","dictionarySpanIdUrl":"https:\u002F\u002Fspanids.dictionary.com\u002F","pageDurationIntervalInSeconds":30,"pageName":undefined,"platform":"Desktop","sendTrackEventWithXhr":true,"siteName":"thes","thesaurusSpanIdUrl":"http:\u002F\u002Fspanids.thesaurus.com\u002F","trackURL":"https:\u002F\u002Ftrack.thesaurus.com\u002Fmain.gif"}

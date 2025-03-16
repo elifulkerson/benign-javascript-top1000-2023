@@ -1,0 +1,1 @@
+(function carouselBtf(d, w) {var p = d.getElementById("CardInstancejHCYlqX0uT9zU0BHVwwBcw-btfCarouselContent"), h = p && p.innerHTML, v = h ? [h] : []; w.GWData = w.GWData || {}; w.GWData['CardInstancejHCYlqX0uT9zU0BHVwwBcw'] = { loaded: false, data: v }; }(document, window));

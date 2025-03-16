@@ -1,0 +1,1 @@
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/11FbwVANcKL.js?AUIClients/DigitalVideoLoggingAssets');

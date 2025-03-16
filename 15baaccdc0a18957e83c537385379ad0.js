@@ -1,0 +1,1 @@
+!function(o,w){!function(o,w){o.snowplow||(o.GlobalSnowplowNamespace=o.GlobalSnowplowNamespace||[],o.GlobalSnowplowNamespace.push(w),o.snowplow=function(){(o.snowplow.q=o.snowplow.q||[]).push(arguments)},o.snowplow.q=o.snowplow.q||[])}(o,"snowplow")}(window,document);

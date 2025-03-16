@@ -1,0 +1,1 @@
+var AdsServicePosition = {}; var AdsClientPosition = {}; var JacCallbacks = {};

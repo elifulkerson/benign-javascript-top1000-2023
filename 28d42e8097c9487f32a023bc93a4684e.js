@@ -1,0 +1,1 @@
+if (localStorage["menuState"]&1){document.getElementById('addContentPlus').innerHTML = '&ndash;';document.getElementById('addContentBlock').style.display=''}

@@ -1,0 +1,1 @@
+var googletag=googletag||{},pbjs=pbjs||{},Criteo=window.Criteo||{};googletag.cmd=googletag.cmd||[];pbjs.que=pbjs.que||[];Criteo.events=Criteo.events||[];var googTagCode={display:[],config:null,video:{outstream:{id:'',code:''},inarticle:{id:'',code:''}},tag:{}};

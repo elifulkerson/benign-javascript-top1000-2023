@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=live]We've datamined the class tuning in Patch 10.2 PTR build 51685 which includes buffs to Devastation Evoker, Havoc changes and more!", "news-post-652cc2214dbe63.05046611", {"allow":40,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335455,"stopAtBreak":1});

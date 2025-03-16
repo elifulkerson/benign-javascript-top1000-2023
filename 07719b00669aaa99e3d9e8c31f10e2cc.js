@@ -1,0 +1,1 @@
+window.sam = window.sam || {}; sam.cmd = sam.cmd || [];

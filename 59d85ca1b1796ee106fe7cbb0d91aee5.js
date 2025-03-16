@@ -1,0 +1,1 @@
+if($('.wrapper').is(':visible'))Columns.check();

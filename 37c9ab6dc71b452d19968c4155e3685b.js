@@ -1,0 +1,1 @@
+pixiv.context.backgroundSlideshow = true

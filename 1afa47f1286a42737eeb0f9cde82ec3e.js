@@ -1,0 +1,1 @@
+document.write('<a target="_blank" href="https://bcad.jrj.com.cn/api/h5Click?appId=njrjPC&cid=NP2&pid=308&planId=4737&mid=6064&u=https%3A%2F%2Fstock.jrj.com.cn%2Fggjj.shtml" style="font-family:&#23435;&#20307;;color:#000000;font-size:12;text-decoration:none" onmouseover="this.style.color=\'#000000\'" onmouseout="this.style.color=\'#000000\'">精选公告一览公司动态</a>');

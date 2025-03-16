@@ -1,0 +1,1 @@
+window.__NFES_PCHOME_HOST__={"erctapp":"//ak-s.tripcdn.com/modules/nfes/pc-home/er_ctrip_app.d496654a3dbc0ff068f2b9aa5277a24a.jpg","phlist":"//ak-s.tripcdn.com/modules/nfes/pc-home/phone_list20190617.49e7e6d63706f5b4196e4718d562eaea.png","assist":"//ak-s.tripcdn.com/modules/nfes/pc-home/assist.dd2e1f702c4aaebd02f9d0c43885a337.png"}

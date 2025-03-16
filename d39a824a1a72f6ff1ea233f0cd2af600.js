@@ -1,0 +1,1 @@
+window.MutationObserver||document.write('<script type="text/javascript" src="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/polyfill.909f7922f04e46f7.js"><\/script>')

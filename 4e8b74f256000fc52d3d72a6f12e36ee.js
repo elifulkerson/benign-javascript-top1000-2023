@@ -1,0 +1,2 @@
+(function(){let _sf_async_config=window._sf_async_config=(window._sf_async_config||{});_sf_async_config.sections='home | front page';_sf_async_config.authors='';_sf_async_config.title='';function loadChartbeatVideo(){let e=document.createElement('script');let n=document.getElementsByTagName('script')[0];e.type='text/javascript';e.async=!0;e.defer=!0;e.src='//static.chartbeat.com/js/chartbeat_video.js';n.parentNode.insertBefore(e,n)}
+document.addEventListener("tcfLoaded",function(){loadChartbeatVideo()})})()

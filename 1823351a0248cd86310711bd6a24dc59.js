@@ -1,0 +1,1 @@
+adverts.addToArray({type: '728x90', pos: 'leader_lower_middle'});

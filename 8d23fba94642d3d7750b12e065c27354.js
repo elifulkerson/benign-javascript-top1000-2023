@@ -1,0 +1,1 @@
+if (info.isLogin) { document.getElementById('wordlist-login').style.display = 'none'; document.getElementById('wordlist-content').style.display = ''; waiting('word_list') }

@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.getElementById("supportticket");e&&e.addEventListener("click",(()=>{Cookies.set("st_backto",window.location.href,{expires:.2,path:"/",sameSite:"None",secure:!0}),window.location.href=e.getAttribute("href")}))})();

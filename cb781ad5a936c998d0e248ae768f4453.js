@@ -1,0 +1,1 @@
+window.__AUTOMATED_TESTING__=false

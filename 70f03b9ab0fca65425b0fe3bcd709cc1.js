@@ -1,0 +1,12 @@
+document.write("<div class='donga_media'><div class='media_cont'><div class='damg'><a href='https://web.donga.com/damg' data-event_name='click_event' data-ep_button_name='DAMG 동아미디어그룹 소개' data-ep_button_area='푸터' data-ep_button_category='공통'>DAMG 동아미디어그룹 소개 ></a></div><div class='alim_cont'><div class='alim_msg'><div class='title'><a class='select' href='javascript:void(0);'><b>문화스포츠사업</b><span class='icon_com icon_arr'>펼치기/닫기</span></a></div><div class='dongagroup_layer'><ul class='list'><li><a href='https://www.donga.com/docs/sinchoon/' target='_blank'><b><b>동아 신춘문예 </b></b></a></li><li><a href='https://www.donga.com/concours/classical/' target='_blank'><b><b>동아국악콩쿠르 </b></b></a></li><li><a href='https://www.donga.com/concours/music/' target='_blank'><b><b>동아음악콩쿠르</b></b></a></li><li><a href='https://dongamusical.com/' target='_blank'><b><b>동아뮤지컬콩쿠르</b></b></a></li><li><a href='https://www.donga.com/concours/dance/' target='_blank'><b><b>동아무용콩쿠르</b></b></a></li><li><a href='https://www.donga.com/concours/juniormusic/' target='_blank'><b><b>동아주니어음악콩쿠르</b></b></a></li><li><a href='https://www.donga.com/concours/juniorgugak/' target='_blank'><b><b>동아주니어국악콩쿠르</b></b></a></li><li><a href='https://dongma.club/' target='_blank'><b><b>동아마라톤</b></b></a></li><li><a href='https://www.donga.com/docs/ilbo/event/performance/2017/performance6.html' target='_blank'><b><b>동아연극상</b></b></a></li><li><a href='http://www.seoulcompetition.com/' target='_blank'><b><b>LG와 함께 하는 서울국제음악콩쿠르</b></b></a></li><li><a href='http://www.donga.com/wpp/' target='_blank'><b>세계보도사진전</b></a></li><li><a href='http://www.jejucontest.com' target='_blank'><b>제주 국제사진공모전</b></a></li></ul></div></div><div class='family_site'><div class='title'><a class='select' href='javascript:void(0);'>동아 Family<span class='icon_com icon_arr'>펼치기/닫기</span></a></div><div class='family_layer'><ul class='mediaGroupList'></li><li><a href='http://www.inchonmemorial.co.kr/'>인촌기념회</a></li><li><a href='https://ilmin.org/'>일민미술관</a></li><li><a href='http://www.presseum.or.kr/'>신문박물관</a></li><li><a href='http://www.hjpeace.or.kr/'>화정 평화재단</a></li><li><a href='https://www.haseofoundation.org/'>하서학술재단</a></li></ul></div></div></div></div></div>");
+$('.alim_msg .title a.select').on('click',function(){
+$('.dongagroup_layer').toggle();
+$('.alim_msg .icon_arr').toggleClass('on');
+return false;
+});
+
+$('.family_site .title a.select').on('click',function(){
+$('.family_layer').toggle();
+$('.family_site .icon_arr').toggleClass('on');
+return false;
+});

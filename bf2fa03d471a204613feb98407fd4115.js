@@ -1,0 +1,1 @@
+jQuery(".head-main-left").slide({  type:"menu", titCell:"dl dd", targetCell:".subCate", defaultPlay:false, returnDefault:true });

@@ -1,0 +1,1 @@
+window._taboola = window._taboola || []; window._taboola.push({home: 'auto',}); window._taboola.push({mode: 'video-reel-sc', container: 'taboola-video-reel-homepage', placement: 'Video Reel Homepage', target_type: 'mix',})

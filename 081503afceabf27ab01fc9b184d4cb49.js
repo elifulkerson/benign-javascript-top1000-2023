@@ -1,0 +1,1 @@
+MynetAds.Gpt.display('prestitial_oop');

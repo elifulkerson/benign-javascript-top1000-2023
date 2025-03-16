@@ -1,0 +1,1 @@
+ffte = window.ffte || {}; ffte.logo = 'https://vanilla.futurecdn.net/techradar/media/img/techradar_logo.png';

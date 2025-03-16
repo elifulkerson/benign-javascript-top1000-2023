@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=d4]The Diablo 4 Season of Blood Campfire Chat has ended. We have summarized the most important Class Balance changes and more coming to Diablo 4 Season 2!", "news-post-652cc2214f6333.88073966", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335437,"stopAtBreak":1});

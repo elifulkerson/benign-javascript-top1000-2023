@@ -1,0 +1,1 @@
+window.__INITIAL_THEME__="light"

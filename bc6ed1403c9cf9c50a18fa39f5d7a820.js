@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=wrath]Congratulations to Progress from EU Gehennas for the World First kill of Heroic Lich King in Icecrown Citadel Wrath of the Lich King Classic!", "news-post-652cc2216d4621.86745477", {"allow":40,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335496,"stopAtBreak":1});

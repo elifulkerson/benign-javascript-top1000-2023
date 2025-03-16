@@ -1,0 +1,1 @@
+var gptadslots=[];var googletag=googletag||{};googletag.cmd=googletag.cmd||[];function getMinimumWidth(minWidth=window.innerWidth){const screenSizes="3840,1920,1500,1360,1320,1240,1200,1024,728,667,568,414,375";const defaultScreenSizes=screenSizes.split(",");return defaultScreenSizes.filter((size)=>minWidth>=size).join(",")}

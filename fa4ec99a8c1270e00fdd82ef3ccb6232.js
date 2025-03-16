@@ -1,0 +1,1 @@
+var comment_like_text = {"loading":"Loading...","swipeUrl":"https:\/\/s1.wp.com\/wp-content\/mu-plugins\/comment-likes\/js\/lib\/swipe.js?ver=20131008"};

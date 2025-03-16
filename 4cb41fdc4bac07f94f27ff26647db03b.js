@@ -1,0 +1,2 @@
+if(window.mixTimeout){window.mixTimeout('sign-in-v2', 'CardInstancetQGidD2ZcHidwlwpm3MLFA', 90000)};
+P.when('mix:@amzn/mix.client-runtime', 'mix:sign-in-v2__HJq_ljkr').execute(function (runtime, cardModule) {runtime.registerCardFactory('CardInstancetQGidD2ZcHidwlwpm3MLFA', cardModule);if(window.GWI){window.GWI.Card.autoInstActive('CardInstancetQGidD2ZcHidwlwpm3MLFA');}});

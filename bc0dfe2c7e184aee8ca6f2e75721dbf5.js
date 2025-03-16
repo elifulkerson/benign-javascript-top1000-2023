@@ -1,0 +1,1 @@
+KISSY.config({packages: {"mui/ald":{path: "//g.alicdn.com/mui/ald/1.2.6/",ignorePackageNameInUri: true,debug: true}}});

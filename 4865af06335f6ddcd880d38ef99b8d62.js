@@ -1,0 +1,1 @@
+window.performanceInfo_firstScreenTime = +new Date()

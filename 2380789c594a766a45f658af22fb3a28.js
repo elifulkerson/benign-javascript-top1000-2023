@@ -1,0 +1,1 @@
+!function(){var e=window.__etsy_logging;if(e&&e.perf&&e.perf.prefixMetricName){var r=e.perf.prefixMetricName("logo_render");"object"==typeof UXCapture&&UXCapture.mark?UXCapture.mark(r):window.performance&&window.performance.mark&&window.requestAnimationFrame((function(){setTimeout((function(){window.performance.mark(r)}))}))}}();

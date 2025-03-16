@@ -1,0 +1,1 @@
+!function(){var e,t;e=window.matchMedia("(orientation: landscape)").matches,t=window.matchMedia("(pointer: coarse)").matches,e=e&&window.screen.height>window.screen.width?window.screen.height:window.screen.width,t&&(744<=e&&e<=1279)&&(document.documentElement.classList.add("tablet-mode"),document.getElementById("MetaViewport").setAttribute("content","width=997"))}();

@@ -1,0 +1,1 @@
+var config={application_name:"INTUITCOM",version:"1.5",business_unit:"INTUIT",country:"US",srvcEndPoint:"https://experimentation.us.api.intuit.com",authorizedEvents:["interactive","onload","load"],executionEvent:"interactive"};wasabi.init(config);

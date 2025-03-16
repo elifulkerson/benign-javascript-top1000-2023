@@ -1,0 +1,1 @@
+Static.COOKIE_BANNER_CAPABLE = true;

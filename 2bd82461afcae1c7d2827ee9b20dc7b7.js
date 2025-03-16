@@ -1,0 +1,1 @@
+!function(){"use strict";const e="1024".toString();window.nypost_screen=window.screen.width<e?"mobile":"desktop",window.matchMedia(`(max-width: ${e}px)`).addEventListener("change",(e=>{window.nypost_screen=e.matches?"mobile":"desktop"}))}();

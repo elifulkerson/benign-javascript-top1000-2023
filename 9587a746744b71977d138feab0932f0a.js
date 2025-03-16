@@ -1,0 +1,1 @@
+window.Groupon = Object.assign({}, window.Groupon, { Coupons: {} })

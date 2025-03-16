@@ -1,0 +1,1 @@
+window.bookmarksEndpoint='https://5yc6ykd9ei.execute-api.us-east-1.amazonaws.com/prod'

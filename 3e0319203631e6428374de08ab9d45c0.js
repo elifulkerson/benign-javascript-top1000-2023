@@ -1,0 +1,1 @@
+window.frtrI18n={copied:"Copied",copy_video_url:"Copy video URL"}

@@ -1,0 +1,1 @@
+window.szLogAction = 'MAIN_LIST';

@@ -1,0 +1,1 @@
+MynetAds.Gpt.display('advertorial_aramanset_1_oop');

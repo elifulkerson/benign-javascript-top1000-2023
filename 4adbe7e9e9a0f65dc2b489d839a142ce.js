@@ -1,0 +1,1 @@
+$(".more_sec a").click(function(a){a.preventDefault();$("body").animate({scrollTop:$(".more_box").offset().top-50},500)});

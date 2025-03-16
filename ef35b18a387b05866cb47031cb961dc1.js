@@ -1,0 +1,1 @@
+var event;if (typeof(Event) === 'function') {event = new Event('POLYGON_DOM_HEADER_READY');} else {event = document.createEvent('Event');event.initEvent('POLYGON_DOM_HEADER_READY', false, false);}window.dispatchEvent(event);

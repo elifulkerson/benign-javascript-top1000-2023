@@ -1,0 +1,1 @@
+(this.lizardLocaleMessages = this.lizardLocaleMessages || []).push({"@shimo/ui":{},"@shimo/lc-utils":{},"@shimo/lizard-components":{},"@shimo/lc-marketing":{}})

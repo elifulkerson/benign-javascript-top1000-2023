@@ -1,0 +1,1 @@
+var errorReportingContext = {"appName":"discover","appVersion":"6.30.9","shouldLogErrors":true,"environment":"production","user":{"lang":"en-us","attendee":false,"session":"qGXLId02i43JAJhrFkysYQ","authenticated":false,"has_any_global_permission":false,"locale":"en_US","id":null,"email":null},"sessionTrackingEnabled":true,"metaData":{"tags":{"serverName":"8d57b2945439"}}};

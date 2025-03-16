@@ -1,0 +1,1 @@
+var gforms_recaptcha_recaptcha_strings = {"site_key":"6Lc_nsgnAAAAAMHbceQB7cPmOz4t4_V5PIRhEbbW","ajaxurl":"https:\/\/www.harvard.edu\/wp-admin\/admin-ajax.php","nonce":"b3e7687795"};

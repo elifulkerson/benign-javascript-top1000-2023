@@ -1,0 +1,17 @@
+var page_path = "";
+    var k_page = "home";
+    var k_hl = "en";
+    var g_token = '';
+    var k_get_query = "";
+    var k_data_vid = '';
+    var k_data_vtitle = '';
+    var k__id = '';
+    var k_busy = false;
+    var p_b = false;
+    var k_analyze_url = "https:\/\/www.y2mate.com\/mates\/en865\/analyzeV2\/ajax";
+    var k_convert_url = "https:\/\/www.y2mate.com\/mates\/convertV2\/index";
+    var k_url_pool = "https:\/\/www.y2mate.com\/mates\/convertV2\/pool";
+    var k_tmp_url = "\/_hl_\/";
+    var wLocation = "\/";
+    var txt_download = "Download";
+    var yt_tmp = 'youtube/';

@@ -1,0 +1,1 @@
+window._taboola = window._taboola || []; _taboola.push({ mode: 'thumbnails-q', container: 'taboola-below-article-thumbnails 2', placement: 'Below Article Thumbnails 2', target_type: 'mix' });

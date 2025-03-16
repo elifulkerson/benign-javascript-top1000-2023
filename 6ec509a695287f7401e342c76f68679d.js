@@ -1,0 +1,1 @@
+var lazycss = lazycss ? lazycss : [];

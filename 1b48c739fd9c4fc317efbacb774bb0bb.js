@@ -1,0 +1,2 @@
+var commonNetFunnelUseYn = "";
+	var commonNetFunnelJsStringArea = "";

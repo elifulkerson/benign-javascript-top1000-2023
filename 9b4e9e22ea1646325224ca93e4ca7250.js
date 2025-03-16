@@ -1,0 +1,3 @@
+var GPT = GPT || {};
+        GPT.targeting = {"env":"production","lang":"pl","url_action":"index","action_name":"homepage","atlas_action":"index","dfp_user_id":"7d5f8141-e642-493b-928c-975899d17287-ver-2","user_status":"0","last_pv_imps":"0","user-ad-fq":"0","user-ad-dens":"0","ses_pv_seq":"0","listingview_test":"1"};
+        var baxterTargeting = {"env":"production","lang":"pl","url_action":"index","action_name":"homepage","atlas_action":"index","dfp_user_id":"7d5f8141-e642-493b-928c-975899d17287-ver-2","user_status":"0","last_pv_imps":"0","user-ad-fq":"0","user-ad-dens":"0","ses_pv_seq":"0","listingview_test":"1"};

@@ -1,0 +1,1 @@
+window.cdaaas.SETTINGS.MAB_ACTIVE = true

@@ -1,0 +1,1 @@
+WH.WAS.init({"channelGroup":"News","channelName":"Home","dataEnv":"Live","dataTree":"Retail","entityType":"News Post","game":"WoW","universe":"Warcraft"}, ["mobileMedrec","horizontal","skin","vertical"]);

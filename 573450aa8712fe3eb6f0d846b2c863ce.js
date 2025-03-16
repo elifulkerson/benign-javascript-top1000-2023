@@ -1,0 +1,1 @@
+window.PUBLIC_PATH = "//ssr-static.msstatic.com/h5/HuyaMainSSR/"

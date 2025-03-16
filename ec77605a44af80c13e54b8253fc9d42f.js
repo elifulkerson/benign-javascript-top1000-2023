@@ -1,0 +1,1 @@
+!function(){"use strict";for(var e=document.getElementsByClassName("ad-adsense"),o=0,d=0;d<e.length;d++){var n=e[d];"none"!==window.getComputedStyle(n).display?o+=1:(n.remove(),d-=1)}window.adsbygoogle=window.adsbygoogle||[];var s=window.adsbygoogle;for(d=0;d<o;d++)s.push({})}();

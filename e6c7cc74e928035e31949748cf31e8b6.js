@@ -1,0 +1,3 @@
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('navCF').execute(function() {
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-eu.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71dXag6MKSL.js,01F+A05ogQL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71MqgZnN1GL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21rDHgaooIL.js,41uimpD4OpL.js,51t-JTxfnwL.js,31Pa7Gj4ZBL.js,11lEMI5MhIL.js,31c7Fn9h9gL.js,01LEzWzrPZL.js,01AqeWA7PKL.js_.js?AUIClients/NavDesktopUberAsset&lLvq0Ux1#desktop.language-en.in.488400-T1.488413-T1.366740-T1.310484-T1');
+});

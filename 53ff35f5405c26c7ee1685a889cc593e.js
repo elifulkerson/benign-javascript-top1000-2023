@@ -1,0 +1,5 @@
+window.digitalData = {"page":{"pageinfo":{"pageID":"813479","cms":"interred","cmsPraefix":"ir","design":"rd2014","server":"www.chip.de","titleText":"CHIP - Homepage","ivwCode":"home","responsive":true,"canonicalURL":"https:\/\/www.chip.de","fea":"","ContainerID":"161261538","headlineText":"CHIP - Homepage","contentSourceType":"intern","contentSourceName":"chip","author":"n\/a","bf_jobGroup":"keine-zuordnung","bf_jobId":"9999","bf_job":"keine-zuordnung"},"category":{"channel":"Home","bartName":"CXO_Homepage","layoutName":"cd_homepage","TreeNavID":["","9223"],"TreeNavName":["","Navigation CHIP"],"layoutID":"5070","bartID":"701","subChannel":"n\/a"}},"version":"1.2.1","user":{"loggedin":false}};
+
+        if (document.referrer) {
+            window.digitalData.page.pageinfo.referringURL = document.referrer;
+        }

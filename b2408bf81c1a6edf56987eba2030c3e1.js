@@ -1,0 +1,1 @@
+window.critical_css_enabled = true;

@@ -1,0 +1,1 @@
+window._global_header_23_hit_exp_=false;

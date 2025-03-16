@@ -1,0 +1,1 @@
+document.write("<a href='" + tthfxw_fenzhan_link + "' target='_blank' >" + tthfxw_fenzhan_word + "</a>");

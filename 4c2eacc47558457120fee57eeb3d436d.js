@@ -1,0 +1,1 @@
+window.__PolyfillScripts__={"core-js":"https://c1.neweggimages.com/WebResource/Scripts/WWW/core-js.polyfill.min.js","intersection-observer":"https://c1.neweggimages.com/WebResource/Scripts/WWW/intersection-observer.polyfill.min.js"}

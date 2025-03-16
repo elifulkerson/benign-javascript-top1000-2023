@@ -1,0 +1,1 @@
+window.gaData&&(window.ga_forward&&(window.gaData.ga_forward=window.ga_forward),gadata_forwarder(window.gaData))

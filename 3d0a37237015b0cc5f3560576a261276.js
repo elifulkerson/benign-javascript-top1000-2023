@@ -1,0 +1,1 @@
+oGnb.setMainEmailConfirm();

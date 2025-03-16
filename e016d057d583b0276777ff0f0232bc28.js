@@ -1,0 +1,1 @@
+window.landingUtms = { source: null, campaign: null, medium: null };

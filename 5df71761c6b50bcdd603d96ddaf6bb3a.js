@@ -1,0 +1,1 @@
+WH.WAS.validateUnit("video-pos-static")

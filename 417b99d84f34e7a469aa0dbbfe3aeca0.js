@@ -1,0 +1,1 @@
+window.uolads && uolads.push({ id:"banner-728x90-1-Area" });

@@ -1,0 +1,1 @@
+__ace.subscribe("page",{setPerfMark:(e,a={})=>{const{performance:r,__ace:t}=window,{isNewRelicEnabled:c,justNewRelic:i}=a,{performanceStartTime:n}=t("dataLayer","getData",["performanceStartTime"])||{},s={};n&&(s.startTime=r.now()-n),i||r.mark(e,s),c&&t("ace","sendMetricToNewRelic",[e])}});

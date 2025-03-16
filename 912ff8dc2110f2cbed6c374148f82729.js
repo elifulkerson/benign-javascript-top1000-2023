@@ -1,0 +1,1 @@
+window.record_page_web_vitals = "FeedPage"

@@ -1,0 +1,1 @@
+window._taboola = window._taboola || [];_taboola.push({mode: 'rbox-tracking', container: 'taboola-newsroom', placement: 'Newsroom',});

@@ -1,0 +1,1 @@
+var show_light_off_switch=true; var show_light_off_day='2023-10-16 13:01:01'

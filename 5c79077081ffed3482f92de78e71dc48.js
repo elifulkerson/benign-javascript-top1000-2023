@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=live]If you don't want to do 4 dungeons each week in order to get the Mastery of the Turbulent Timeways achievement and mount, you only need to run 1 a week with a special method!", "news-post-652cc2215e41b0.44588391", {"allow":40,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335521,"stopAtBreak":1});

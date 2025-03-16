@@ -1,0 +1,1 @@
+!function(){if("PerformancePaintTiming"in window){var e=window.__perf={e:[]};e.o=new PerformanceObserver((function(n){e.e=e.e.concat(n.getEntries())}));try{e.o.observe({entryTypes:["paint"]})}catch(e){}}}()

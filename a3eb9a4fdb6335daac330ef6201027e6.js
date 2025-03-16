@@ -1,0 +1,1 @@
+window.__INITIAL_AD_ENV__=null

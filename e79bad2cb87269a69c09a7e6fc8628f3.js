@@ -1,0 +1,1 @@
+try{if(typeof jQuery=="undefined"){document.write('<scri'+'pt type="text/javascript" src="//static.mediafire.com/js/jquery/1.7.2/jquery.min.js"></sc'+'ript>');}}catch(e){asO(e,'HDR:jquery_check');}

@@ -1,0 +1,1 @@
+window.dispatchEvent(new Event("new-content"));

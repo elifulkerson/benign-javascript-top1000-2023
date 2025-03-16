@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Col1-2-Rmp');window.performance.measure && window.performance.measure('Col1-2-RmpDone','PageStart','Col1-2-Rmp');}

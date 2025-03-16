@@ -1,0 +1,1 @@
+if(top.location!==location) { top.location.href=location.protocol + '//' + location.host + location.pathname + (location.search ? location.search + '&' : '?') + '_xafvr=YTliMzdkMWU5NDcyMGFjYmI3NjU1ODRmYTRiNGE4MTg1OTkyYWU3ZCw2NTJjYzU2M2IzMDM0'; }

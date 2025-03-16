@@ -1,0 +1,1 @@
+window.SportsPageVars.tracking.taboolaPlacement = "desktop-hybrid-main";

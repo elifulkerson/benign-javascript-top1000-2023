@@ -1,0 +1,1 @@
+var Dell=Dell||{};Dell.Homepage=Dell.Homepage||{};Dell.Homepage.DetectPc=Dell.Homepage.DetectPc||{};Dell.Homepage.DetectPc.MfeUrl='https://www.dell.com/support/productsmfe/en-us/detectproduct?appname=uberhome&inccomponents=false';Dell.Homepage.DetectPc.SupportLinkUrl='https://www.dell.com/support/home/en-us/product-support/servicetag';Dell.Homepage.DetectPcMfeEnabled=true;

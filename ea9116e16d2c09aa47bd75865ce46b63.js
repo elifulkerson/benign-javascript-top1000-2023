@@ -1,0 +1,1 @@
+jQuery.fn.size = jQuery.fn.size || function () { return this.length; };

@@ -1,0 +1,1 @@
+$(document).ready(function(){$.smartbanner({title:"Lightshot (screenshot tool)",icon:"//st.prntscr.com/2023/07/24/0635/img/icon_lightshot.png",author:"Skillbrains",daysHidden:0,daysReminder:0})});

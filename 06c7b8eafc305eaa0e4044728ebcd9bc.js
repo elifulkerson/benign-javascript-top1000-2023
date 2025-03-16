@@ -1,0 +1,1 @@
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-643108395629198345-rollup'); });

@@ -1,0 +1,1 @@
+if(window.Sentry){Sentry.init({environment:"pro",release:"store@0.37.13",dsn:window.location.protocol+"//3af74c2d5d8b493f93abc405cb83371a@alisgp-sentry.d.xiaomi.net/4",integrations:[new Sentry.BrowserTracing],tracesSampleRate:1});var uuid=String(document.cookie||"").split("; ").filter(e=>!!~e.indexOf("xmuuid="))[0];uuid&&Sentry.setUser({id:uuid.replace(/xmuuid=/,"")})}

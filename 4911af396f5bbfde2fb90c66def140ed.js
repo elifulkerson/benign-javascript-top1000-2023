@@ -1,0 +1,1 @@
+splashRadar('preleftcol', 1);

@@ -1,0 +1,2 @@
+window.globalVars = window.globalVars || {};
+            window.globalVars.supportChat = {"accountName": "hhru", "url": "https://hhru.webim.ru/iclient.php", "location": "anonymous", "webim_visitor": {"fields": {"id": "", "hh_category": "anonymous", "hh_client_id": "", "firstName": "", "lastName": "", "midName": "", "link": "", "requestId": "1697433006581b2563693eaf2bdfe26c", "email": "", "backoffice": ""}, "hash": "b112ee7b49abf933026c7e10dd3b7455deb0519e2a26917240f691876e86da43"}};

@@ -1,0 +1,1 @@
+(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/user-account-core-c70f22517d821dfbaa510-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-user_account_core');

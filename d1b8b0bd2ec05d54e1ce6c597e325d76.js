@@ -1,0 +1,1 @@
+if(document.cookie)ById('h1tagline').style.display='none'

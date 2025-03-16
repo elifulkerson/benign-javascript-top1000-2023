@@ -1,0 +1,1 @@
+window.jQuery || document.write('<script src="https://www.viva.co.id/asset-viva/responsive-web/js/jquery.js?v=2.48"><\/script>');

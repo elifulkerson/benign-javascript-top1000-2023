@@ -1,0 +1,1 @@
+$(document).ready((function(){$("#topilslide").slick({infinite:!1,speed:300,slidesToShow:3,slidesToScroll:3,centerMode:!1,arrow:!0,dots:!1,cssEase:"linear"})}));

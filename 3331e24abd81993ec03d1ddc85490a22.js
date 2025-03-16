@@ -1,0 +1,1 @@
+MynetAds.Gpt.display('pageskin_sol_120x600');

@@ -1,0 +1,1 @@
+adverts.addToArray({"pos":"sky_left_top"})

@@ -1,0 +1,1 @@
+var dataLayer = dataLayer || [{"site_route":"home","site_section":"other"}];

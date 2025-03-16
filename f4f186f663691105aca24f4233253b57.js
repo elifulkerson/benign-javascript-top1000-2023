@@ -1,0 +1,12 @@
+window.mwdata = window.mwdata || {};
+  window.mwdata = Object.assign(window.mwdata, {"isHome":true});
+  window.mwdata.assetsDomain1  = 'https://merriam-webster.com/assets';
+  window.mwdata.assetsDomain2  = 'https://merriam-webster.com/assets';
+  window.mwdata.assetsDomain3  = 'https://media2.merriam-webster.com';
+  window.mwdata.pronsDomain    = 'https://media.merriam-webster.com';
+  window.mwdata.ssoDomainFront = 'https://sso.merriam-webster.com';
+  window.mwdata.svgPath        = '/dist-cross-dungarees/2023-10-13--15-57-39-vk0u3';
+  window.mwdata.env            = 'production';  
+  window.mwdata.jwPlayerPath   = window.mwdata.assetsDomain2 + '/mw/jwplayer-8.10.3/';
+  window.mwdata.jwkey          = 'zw1JPzyqv2DcY1xJTZncAt9HKaUKLEztLQFMqw==';
+  window.mwdata.gaExperimentId = '';

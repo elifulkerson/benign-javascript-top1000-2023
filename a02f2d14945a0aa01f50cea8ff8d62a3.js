@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('Bottom-1-Rmp');window.performance.measure && window.performance.measure('Bottom-1-RmpDone','PageStart','Bottom-1-Rmp');}

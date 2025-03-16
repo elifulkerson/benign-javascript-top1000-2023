@@ -1,0 +1,1 @@
+espn_ui.Helpers.translate.init();

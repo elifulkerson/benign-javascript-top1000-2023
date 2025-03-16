@@ -1,0 +1,1 @@
+!function(i,n,a,t){i.analytics=i.analytics||{},i.analytics[t]||(i.analytics[t]=function(i,a,t){if(void 0===i)return;a=void 0===a?0:a,t=void 0===t?0:t;const d=n.createElement("iframe");d.width=a,d.height=t,d.hidden=!0,d.src=i,n.body.appendChild(d)})}(window,document,0,"appendFrame");

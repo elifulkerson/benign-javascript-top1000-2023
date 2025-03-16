@@ -1,0 +1,1 @@
+if(!lazycss){lazycss=[];} if(!lazycsskeys){lazycsskeys=[];} var lazycsskey="/apps/bbva/pwebs/components/clientlibs/bbva.radiobutton.lc-20230913-063158-lc.min.css"; if(lazycsskeys.indexOf(lazycsskey)===-1){ lazycsskeys.push(lazycsskey); lazycss.push({ rel:"stylesheet", href:lazycsskey, type:"text/css", media:"print", onload:"this.media='all'" });}

@@ -1,0 +1,1 @@
+const ib=document.querySelector(".js-ac");function acToggle(){const b=this.nextElementSibling;b.classList.toggle("ac-open");const a=this;a.classList.toggle("ac-open")}ib.addEventListener("click",acToggle);

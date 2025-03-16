@@ -1,0 +1,1 @@
+document.write(bm.replace('<li>','').replace('</li>','<br>'))

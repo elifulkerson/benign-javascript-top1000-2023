@@ -1,0 +1,1 @@
+document.charset="gbk";

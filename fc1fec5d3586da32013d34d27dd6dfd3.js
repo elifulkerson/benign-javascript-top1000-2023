@@ -1,0 +1,1 @@
+(() => {const script=document.createElement('script');script.dataset.testId='Next.Head.Fix';document.head.prepend(script);})();

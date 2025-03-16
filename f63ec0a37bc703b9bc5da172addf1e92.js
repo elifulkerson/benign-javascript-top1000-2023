@@ -1,0 +1,1 @@
+window.__REQUEST_CONTEXT__="{\"language\":\"en-GB\",\"is_uk\":false,\"host\":\"www.bbc.co.uk\",\"ctx-route-spec\":\"HomePage.Webcore\",\"country\":\"us\",\"accept-encoding\":\"gzip\",\"nonce\":\"phiq3kf9FTbyfGDxIqSsaB7FWqArV+2sv131tpA8u/94pGWKcC\",\"env\":\"live\",\"isAppRoute\":false}";

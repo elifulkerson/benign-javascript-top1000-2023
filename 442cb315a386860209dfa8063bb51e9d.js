@@ -1,0 +1,1 @@
+window.__ADS_TARGETING_ARGUMENT__=[{"key":"page_type","value":"home"}]

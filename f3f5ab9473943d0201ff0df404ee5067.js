@@ -1,0 +1,1 @@
+window.xmot=window.xmot||function(){if((xmot.q=xmot.q||[]).push(arguments),"getSettings"===arguments[0])return{}}

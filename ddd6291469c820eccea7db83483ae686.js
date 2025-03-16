@@ -1,0 +1,1 @@
+MynetAds.Gpt.display('header_970x90');

@@ -1,0 +1,1 @@
+window.heavyIsSubscriber = document.cookie.indexOf( 'fp.subscription=true' ) !== -1;

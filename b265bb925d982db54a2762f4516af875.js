@@ -1,0 +1,1 @@
+mr.scriptLoaded && splashMultiAuthInit();

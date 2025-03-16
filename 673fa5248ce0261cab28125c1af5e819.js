@@ -1,0 +1,1 @@
+gagready.push(function() { if (''==='INTERSTITIAL') { document.getElementById('div-gpt-ad-1174-oop').remove(); } else { googletag.cmd.push(function() { googletag.display('div-gpt-ad-1174-oop'); }); } });

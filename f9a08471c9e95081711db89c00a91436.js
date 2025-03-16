@@ -1,0 +1,2 @@
+!function(n,t,a,i){n.mpfContainr||(n.mpfContainr=function(){a.push(arguments)},mpfContainr.q=a,(i=t.createElement('script')).type='application/javascript',i.async=!0,i.src='//cdn.mookie1.com/containr.js',t.head.appendChild(i))}(window,document,[]);
+mpfContainr('V2_748512',{'host': 'gr-gmtdmp.mookie1.com', 'tagType': 'learn','src.rand': '[timestamp]'});

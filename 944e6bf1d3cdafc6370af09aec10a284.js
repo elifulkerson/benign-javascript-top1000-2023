@@ -1,0 +1,1 @@
+(function(){var o='script',s=top.document,a=s.createElement(o),m=s.getElementsByTagName(o)[0],d=new Date(),t=''+d.getDate()+d.getMonth()+d.getHours();a.async=1;a.id="affhbinv";a.className="v3_top_cdn";a.src='https://cdn4-hbs.affinitymatrix.com/hbcnf/mathrubhumi.com/'+t+'/affhb.data.js?t='+t;m.parentNode.insertBefore(a,m)})()

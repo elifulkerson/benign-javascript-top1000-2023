@@ -1,0 +1,4 @@
+let apstagInterval=setInterval(checkInitAmznConditions,500);function checkInitAmznConditions(){if(typeof flagTcfLoaded!=='undefined'&&flagTcfLoaded){window.amznApsPromise=new Promise(function(resolve){googletag.cmd.push(function(){const newGptadtags=gptadtags.map(a=>{return{...a}});const apstagSlots=newGptadtags.filter(function(item){item.sizes=item.sizes.filter(function(size){return size[0]>8||size[1]>8});if(item.slotID==='div-gpt-ad-sticky-bottom-banner'){item.slotParams={ggProduct:'inScreen'}}
+item.slotName=item.slotName+'/'+item.slotID
+return item.sizes&&item.sizes[0]})
+ExpressApp.Log('[APSTAG CALL] apstagSlots',apstagSlots);apstag.fetchBids({slots:apstagSlots},function(bids){googletag.cmd.push(function(){apstag.setDisplayBids();resolve(!0)})})})});clearInterval(apstagInterval)}}

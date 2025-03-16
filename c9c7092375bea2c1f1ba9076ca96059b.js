@@ -1,0 +1,1 @@
+var landpack_locale='en';

@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=d4]Lilith has escaped Sanctuary and has brought hell to Call of Duty: Modern Warfare II. The new Lilith Operator skin is now available in Season 6!", "news-post-652cc2215efd60.74705970", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335520,"stopAtBreak":1});

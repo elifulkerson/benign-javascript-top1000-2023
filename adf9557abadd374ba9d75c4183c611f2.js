@@ -1,0 +1,1 @@
+window.adblockExists=true;

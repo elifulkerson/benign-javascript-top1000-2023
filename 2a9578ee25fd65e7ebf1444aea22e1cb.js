@@ -1,0 +1,3 @@
+/* <![CDATA[ */
+var nypZephr = {"siteId":"nypost","cdnDomain":"zephr-v4.nypost.com","cdnDomainMembership":"zephr-v4.nypost.com","contentId":"","contentType":"","embedScriptBundle":["https:\/\/nypost.com\/wp-includes\/js\/jquery\/jquery.js","https:\/\/nypost.com\/wp-content\/plugins\/nyp-zephr\/build\/embed.bundle.min.js?ver=df42fde3ff0ed9a67be3"],"env":"production","nonce":"440b5140dd","isEuro":"","isSportsArticle":"","isBettingArticle":"","isSportsArticleNonBetting":"","isExclusiveArticle":"","useV4":"1","sdk_rule_slug":"flyouts-and-pencil-units","primarySection":"","primaryTag":"","sections":"","membershipEnabled":"1","meterExperimentEnabled":"1","components":null};
+/* ]]> */

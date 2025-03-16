@@ -1,0 +1,1 @@
+var digitalData = {"page":{"pageInfo":{"pageName":"Homepage","country":"US","language":"en","currency":"","pageID":"US|AMEX|Home|Homepage","reportSuite":""},"category":{"businessUnit":"AMEX","primaryCategory":"","subCategory1":"Home","subCategory2":"","subCategory3":""}},"event":[]};

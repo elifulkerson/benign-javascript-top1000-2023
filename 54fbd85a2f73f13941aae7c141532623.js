@@ -1,0 +1,1 @@
+document.write(screen.width + "x" + screen.height);

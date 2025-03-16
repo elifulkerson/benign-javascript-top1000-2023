@@ -1,0 +1,1 @@
+window.JRJ_Classify_Cur = 'classify-index';

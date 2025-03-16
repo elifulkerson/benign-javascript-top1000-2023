@@ -1,0 +1,4 @@
+window.pageData = {"page":{"businessUnit":"ELS:RP:ST","environment":"prod","language":"en","loadTimestamp":"1697428484449","loadTime":"","name":"home:hpx","noTracking":"false","productName":"SD","type":"np-hp"},"visitor":{"accessType":"ae:ANON_GUEST","accountId":"ae:228598","accountName":"ae:ScienceDirect Guests","ipAddress":"70.163.140.175","userId":"ae:12975512","appSessionId":"b3dbf369-fb73-488d-929f-325211841ce6"}};
+window.pageData.page.loadTime = performance ? Math.round(performance.now()).toString() : '';
+try { pageDataTracker.trackPageLoad(); }
+catch(e) { console.warn("There was an error loading or running Adobe DTM: ", e); }

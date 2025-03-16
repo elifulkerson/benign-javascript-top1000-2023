@@ -1,0 +1,1 @@
+NativeAdPub.push({ target: '10924' , id: 'nativespot-unit-10924'});

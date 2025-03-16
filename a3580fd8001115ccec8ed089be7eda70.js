@@ -1,0 +1,1 @@
+window&&window.performance&&"function"==typeof window.performance.now&&(window.MptcfePerf?window.MptcfePerf.csrfpst=+new Date:window.MptcfePerf={csrfpst:+new Date})

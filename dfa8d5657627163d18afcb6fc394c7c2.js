@@ -1,0 +1,11 @@
+var actionLogOffset = new Array();
+			var notifications_game_id = 0;
+			var file_upload_url = 'https://upload.nexusmods.com';
+			var upload_url = "https://file-metadata.nexusmods.com/file";
+			var upload_bucket = "nexus-files-s3";
+			var upload_metadata_bucket = "nexus-files-s3-meta";
+			var upload_service = "https://upload.nexusmods.com";
+			window.current_game_id = 0;
+			var user_service_url = 'https://users.nexusmods.com';
+			var notification_service_url = 'https://notifications.nexusmods.com';
+			window.notificationsDisabled = false;

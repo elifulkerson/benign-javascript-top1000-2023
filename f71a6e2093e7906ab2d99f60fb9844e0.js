@@ -1,0 +1,1 @@
+window.subitoAdvConfig={"bidders":{"ow":false,"tam":false},"includeAdSense":false}

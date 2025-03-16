@@ -1,0 +1,1 @@
+if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/sw.js') .catch((ex) => console.log('sw.js failed.', ex)); } var gagready = []; var thumbs = []; function getThumb(e, u) { window.gag ? window.gag.getThumb(e, u) : thumbs.push({ e: e, u: u }) }

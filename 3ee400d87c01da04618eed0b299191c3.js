@@ -1,0 +1,10 @@
+var $controller_name = 'home';
+  var $action_name = "show";
+  var $rails_env = 'production';
+  var $app_rev = '2b921b50d8f8f1f26a8df8bb343e97602820e513';
+  var $domain = 'academia.edu';
+  var $app_host = "academia.edu";
+  var $asset_host = "academia-assets.com";
+  var $start_time = new Date().getTime();
+  var $recaptcha_key = "6LdxlRMTAAAAADnu_zyLhLg0YF9uACwz78shpjJB";
+  var $recaptcha_invisible_key = "6Lf3KHUUAAAAACggoMpmGJdQDtiyrjVlvGJ6BbAj";

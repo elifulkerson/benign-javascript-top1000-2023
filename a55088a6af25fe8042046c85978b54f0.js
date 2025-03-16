@@ -1,0 +1,1 @@
+if(self==top){var theBody=document.getElementsByTagName("body")[0];theBody.style.visibility="visible"}else top.location=self.location

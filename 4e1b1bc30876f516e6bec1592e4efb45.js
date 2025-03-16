@@ -1,0 +1,1 @@
+var prebidSettings={"features":{"delayAdsUntilCMP":"false","amazon.waitConsent":"true","collectiveDisplayPrebidEnabled":"false"},"appnexus":{"psp":"true"}};window.taboolaNonConsent=!0;window.gumgumPrebidEnabled=!1;window.taboolaNonConsentOnNonGdprCountries=!0;window.footbalCoPlayer=!0

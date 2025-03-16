@@ -1,0 +1,1 @@
+window.gaCookieSet=/(?:^|;\\s*)_ga/.test(document.cookie);

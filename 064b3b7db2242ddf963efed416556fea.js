@@ -1,0 +1,1 @@
+browserRedirect("https://m.gtarcade.com", "https://www.gtarcade.com")

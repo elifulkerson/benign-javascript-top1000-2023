@@ -1,0 +1,2 @@
+if(window.mixTimeout){window.mixTimeout('deals-shoveler-v2', 'CardInstanceo-vwOWkcfT92GPgYbJThXA', 90000)};
+P.when('mix:@amzn/mix.client-runtime', 'mix:deals-shoveler-v2__Y9WaSowf').execute(function (runtime, cardModule) {runtime.registerCardFactory('CardInstanceo-vwOWkcfT92GPgYbJThXA', cardModule);if(window.GWI){window.GWI.Card.autoInstActive('CardInstanceo-vwOWkcfT92GPgYbJThXA');}});

@@ -1,0 +1,1 @@
+var utag_data = {"context":"desktop","page_delivery":"red","page_id":"wDmWJyqHFeqhJHmeuqfN","page_document_type":"home","page_publication_date":"2023-10-16 06:56","page_cms_path":"BILD/Home","page_channel1":"BILD","page_channel2":"Home","page_ivw_code":"bild_home/home"}

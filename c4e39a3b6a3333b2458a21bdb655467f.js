@@ -1,0 +1,1 @@
+window.version_us=!1;window.region='uk';window.defaultAdSlotPrefix='/34722903/Express/Comment'

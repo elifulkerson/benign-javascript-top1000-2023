@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgamespot=self.webpackChunkgamespot||[]).push([[7650],{455:(e,s,a)=>{var r=a(9755),u=a.n(r);a.g.$=u(),a.g.jQuery=u()}},e=>{e.O(0,[9755],(()=>{return s=455,e(e.s=s);var s}));e.O()}]);

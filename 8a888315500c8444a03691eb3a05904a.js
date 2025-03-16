@@ -1,0 +1,2 @@
+googletag.cmd.push(function () { 
+                                googletag.display('adslot728x90ATF'); });

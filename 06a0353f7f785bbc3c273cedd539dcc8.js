@@ -1,0 +1,1 @@
+window.render_mode = 'ssr'

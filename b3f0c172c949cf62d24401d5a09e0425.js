@@ -1,0 +1,1 @@
+$(function () { wsc.common.init() })

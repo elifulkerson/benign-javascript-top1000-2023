@@ -1,0 +1,1 @@
+window.CBDRenderConst = {"GATEWAYCONST":{"cityInfo":{"cityName":"六安","district":"安徽","cityCode":"341500","isSuccess":true,"cityNumber":null,"cityShortName":null}}}

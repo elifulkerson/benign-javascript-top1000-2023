@@ -1,0 +1,1 @@
+if (typeof mw != 'undefined') { mw.mobileFrontend.emit( 'header-loaded' ); }

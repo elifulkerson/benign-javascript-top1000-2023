@@ -1,0 +1,1 @@
+var boxAdobeTargetApiSettings ={"cpi_enabled":false,"cpi_endpoint":"https:\/\/mktg-personalization.box.com\/api\/v1\/cpi?_format=json\u0026bvid=","max_wait_time":150}

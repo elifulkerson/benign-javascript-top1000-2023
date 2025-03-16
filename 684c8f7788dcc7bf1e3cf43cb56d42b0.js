@@ -1,0 +1,1 @@
+registraGA("0", "/_portada/");

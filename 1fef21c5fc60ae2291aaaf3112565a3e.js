@@ -1,0 +1,1 @@
+googletag.cmd.push(function() { googletag.display('gpt-970-banner'); });

@@ -1,0 +1,1 @@
+RA.config.set('newsfeed.timeLastUpdate', 1697432792);

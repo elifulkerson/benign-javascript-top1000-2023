@@ -1,0 +1,1 @@
+(()=>{const e=window.premiumSubscription.version,s="https://premium.express.co.uk/js/dist/app.min.js".replace(".min.js",`${e}.min.js`);let t=document.createElement("script");t.async=!0,t.defer=!0,t.setAttribute("src",s),document.body.appendChild(t)})();

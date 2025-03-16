@@ -1,0 +1,4 @@
+var So={"comm":{"abv":"","guid":"7A0354A354CCDBD7C9D0D1B6372FE2E4.1697428164074","md":"","pid":"home","src":"so.com","fr":"so.com","t":1697428164088,"ip":"70.163.140.175","ls":"","user":{"qid":"","imageId":"","showName":""},"ssurl":"https:\/\/p.ssl.so.com\/p\/","ssl":1,"llbq":"A5,B5,C5,D5","actags":{"fengkong_level":"1.1_2.1_3.1_4.1","fengkong_type":"1","mod_result_blue":"on"},"proxy_ads_conf":{"so_agent":1,"kuai_asc":1,"mediav_asc":1,"lianmeng_asc":1},"sp":"ab4","usp":"","flow_ad_show":true},"web":[]};So.comm.home='so';So.web.skin={"flag":"","flag_limit":"","type":0,"close":0,"skinNew":null,"skinOld":null,"skinJs":"","limitTime":"","tip":""};So.comm.nocard=false;So.comm.chat_v=false;So.comm.ct=+new Date();
+So.comm.imgCDNDomain = 'so.360tres.com';So.comm.resCDNDomain = 'ss.360tres.com';
+So.comm.supportChat = window.fetch && window.AbortController && window.ReadableStream && !!ReadableStream.prototype.getReader;
+So.comm.hasChatAuth =0;

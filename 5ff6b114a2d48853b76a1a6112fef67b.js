@@ -1,0 +1,1 @@
+if ( $.cookie('isBreakNews') != 4504123 ) { document.write("<div id='breaking_news'><div class='breaking_cont'><a href='https://www.donga.com/news/article/all/20231023/121799641/1'>[속보]‘마약 의혹’ 이선균, 피의자로 형사입건… 곧 소환조사</a><button type='button' class='icon_com01 btn_close' data-cid='4504123'>닫기</button></div></div>"); } 

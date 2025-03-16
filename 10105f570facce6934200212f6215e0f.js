@@ -1,0 +1,2 @@
+if(window.mixTimeout){window.mixTimeout('deal-of-the-day', 'CardInstanceyA8swIlIo9GkdT3qt378BA', 90000)};
+P.when('mix:@amzn/mix.client-runtime', 'mix:deal-of-the-day__TC6NDdzo').execute(function (runtime, cardModule) {runtime.registerCardFactory('CardInstanceyA8swIlIo9GkdT3qt378BA', cardModule);if(window.GWI){window.GWI.Card.autoInstActive('CardInstanceyA8swIlIo9GkdT3qt378BA');}});

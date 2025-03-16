@@ -1,0 +1,1 @@
+googletag.cmd.push(function() { googletag.display('div-ad-right_2'); });

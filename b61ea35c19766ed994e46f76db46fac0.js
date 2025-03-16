@@ -1,0 +1,2 @@
+WH.News.setupListOptions('#main-news-heading', {"3":"Beta","8":"Classic","14":"Diablo II","16":"Diablo IV","15":"Immortal","6":"Diablo","11":"Hearthstone","12":"HotS","1":"Live","7":"Overwatch","2":"PTR","18":"Rumble","13":"StarCraft","10":"TBC","9":"Warcraft III","20":"WoW","17":"Wrath","4":"Blizzard","5":"Wowhead"});
+WH.News.filterNewsLists();

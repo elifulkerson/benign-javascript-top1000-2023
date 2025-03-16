@@ -1,0 +1,1 @@
+window.didNotLoadScripts=[];function handleScriptError(el) { if (el && el.getAttribute) { window.didNotLoadScripts.push(el.getAttribute('src')); }}

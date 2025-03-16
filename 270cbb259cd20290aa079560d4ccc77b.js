@@ -1,0 +1,1 @@
+document.domain = "urdupoint.com"; var site_base = '/';var base_url = 'https://www.urdupoint.com/'; var base_daily = 'https://www.urdupoint.com/daily/'; var base_cdn = 'https://cdn.urdupoint.com/';

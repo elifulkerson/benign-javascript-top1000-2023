@@ -1,0 +1,1 @@
+window.s2isMobile = false;

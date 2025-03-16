@@ -1,0 +1,1 @@
+$(".btn-cls").click(function() { $(".ads-bott").hide() });

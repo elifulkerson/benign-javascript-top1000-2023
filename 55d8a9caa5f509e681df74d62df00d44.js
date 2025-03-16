@@ -1,0 +1,1 @@
+setTimeout(function(){location.search='?refresh'}, 900000);

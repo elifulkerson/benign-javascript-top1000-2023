@@ -1,0 +1,1 @@
+var google_ad_code = "MC_180x600_ROS";

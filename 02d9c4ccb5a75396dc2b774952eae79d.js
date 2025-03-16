@@ -1,0 +1,1 @@
+swiperHomeInit('.slider-video .swiper-container');

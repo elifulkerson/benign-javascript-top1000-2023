@@ -1,0 +1,1 @@
+'use strict';var dataLayer = [{login: 'no',gender: "",user_id: "",lang: "ja",illustup_flg: 'not_uploaded',premium: 'no',default_service_is_touch: 'no',}];

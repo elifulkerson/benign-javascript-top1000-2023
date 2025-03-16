@@ -1,0 +1,1 @@
+window.eshpage = "home"; window.gtaregeting="anasayfa"

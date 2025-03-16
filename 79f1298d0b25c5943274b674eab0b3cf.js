@@ -1,0 +1,1 @@
+try{setInterval(function(){if(aL('mfloggedoff')=='true'){window.localStorage&&localStorage.clear();top.location='/logout.php';}},30000);}catch(e){}

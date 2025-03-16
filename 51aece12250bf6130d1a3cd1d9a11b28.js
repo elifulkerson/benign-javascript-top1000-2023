@@ -1,0 +1,3 @@
+var $=jQuery.noConflict();$(document).ready(function(){function handleCookies(event){document.removeEventListener('scroll',handleCookies);var head=document.getElementsByTagName('head')[0];var link=document.createElement('link');link.rel='stylesheet';link.type='text/css';link.href='https://www.otvfoco.com.br/wp-content/plugins/elav-lgpd/assets/style-lgpd.css';link.media='all';head.appendChild(link);const showLgpd=localStorage.getItem('showLgpd');if(showLgpd!='false'){$("#privacy-pop-up").css({"display":"flex"});}
+$('#exit-popup').click(function(){$("#privacy-pop-up").css({"display":"none"});localStorage.setItem('showLgpd','false');});}
+document.addEventListener('scroll',handleCookies);});

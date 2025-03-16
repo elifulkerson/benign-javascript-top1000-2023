@@ -1,0 +1,1 @@
+if (screen.width > 960) { googletag.cmd.push(function () { googletag.display('LHS_DESKTOP_NEW'); }); }

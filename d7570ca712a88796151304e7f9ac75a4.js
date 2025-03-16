@@ -1,0 +1,1 @@
+(!window.canAskForCookieConsent || !window.canAskForCookieConsent()) && window.loadDeferredObjects && window.loadDeferredObjects();

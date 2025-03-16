@@ -1,0 +1,2 @@
+var cdaaas = window.cdaaas || {};
+  cdaaas.SETTINGS = {"SITE_ID":"techtudo","SITE_NAME":"techtudo","CATEGORIAS":["home","backstage-pages"],"TAG_MANAGER_AD_UNIT":"edtechtudo","TAG_MANAGER_AD_CUSTOM_DATA":"","TAG_MANAGER_AD_CMS_ID":"","TAG_MANAGER_AD_ACCOUNT_ID":"85042905","TAG_MANAGER_AD_EXTRAS":[],"PRODUCT_UA":"UA-156625-22","MOBILE_GROUP":"desktop"};

@@ -1,0 +1,17 @@
+var Giphy = Giphy || {};
+          window.STATIC_URL = "https://giphy.com/static/";
+          window.CURRENT_VERSION = "9b270a58ab"
+          window.GIPHY_API_CREATE_BASE_URL = "https://api.giphy.com/v1/create/"
+          window.GIPHY_API_URL = "https://api.giphy.com/v1/"
+          window.GIPHY_PINGBACK_URL = "https://pingback.giphy.com"
+          window.SERVICE_GATEWAY_URL = "https://x.giphy.com/"
+          window.IMAGING_SERVICE_URL = "https://imaging.giphy.com"
+          window.GTM_CONTAINER_ID = "GTM-P5GCKB"
+          window.GIPHY_FE_MOBILE_API_KEY = "L8eXbxrbPETZxlvgXN9kIEzQ55Df04v0"
+          window.GIPHY_FE_WEB_API_KEY = "Gc7131jiJuvI7IdN0HZ1D7nh0ow5BU6g"
+          window.GIPHY_FE_FOUR_O_FOUR_API_KEY = "MRwXFtxAnaHo3EUMrSefHWmI0eYz5aGe"
+          window.GIPHY_FE_STORIES_AND_GIPHY_TV_API_KEY = "3eFQvabDx69SMoOemSPiYfh9FY0nzO9x"
+          window.GIPHY_FE_DEFAULT_API_SERVICE_KEY = "5nt3fDeGakBKzV6lHtRM1zmEBAs6dsIc"
+          window.GIPHY_FE_GET_POST_HEADERS_KEY = "e0771ed7b244ec9c942bea646ad08e6bf514f51a"
+          window.GIPHY_FE_MEDIUM_BLOG_API_KEY = "i3dev0tcpgvcuaocfmdslony2q9er7tvfndxcszm"
+          window.GIPHY_FE_EMBED_KEY = "eDs1NYmCVgdHvI1x0nitWd5ClhDWMpRE"

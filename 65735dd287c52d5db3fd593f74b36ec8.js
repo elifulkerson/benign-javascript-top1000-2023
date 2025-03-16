@@ -1,0 +1,1 @@
+function uploadFilesClick(event){event.preventDefault();window.InvokeCaptcha&&window.InvokeCaptcha();};function CaptchaCallback(captchaAnswer){if(captchaAnswer){$('#upload_files_now_form').submit();}else{window.location='/upgrade/';}}

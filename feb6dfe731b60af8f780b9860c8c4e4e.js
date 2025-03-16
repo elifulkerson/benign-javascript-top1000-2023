@@ -1,0 +1,1 @@
+(function() {if (window.csa) {var adPlacementWrapperDivId = 'ape_Gateway_right-2_desktop_wrapper';var adPlacementWrapperDiv = document.getElementById(adPlacementWrapperDivId);var csaLatencyPlugin = window.csa('Content', {element: adPlacementWrapperDiv});csaLatencyPlugin('mark', 'bodyBegin');csaLatencyPlugin('mark', 'criticalFeature');csaLatencyPlugin('mark', 'bodyEnd');}})();

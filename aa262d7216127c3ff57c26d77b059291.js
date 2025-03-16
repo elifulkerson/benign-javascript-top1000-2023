@@ -1,0 +1,1 @@
+try { var desktopHeroImageParent = document.getElementById("desktopHeroImage").parentElement; if (desktopHeroImageParent) { desktopHeroImageParent.style.width = '100%'; } } catch (e) { }

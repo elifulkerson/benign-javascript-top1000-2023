@@ -1,0 +1,1 @@
+window['akamaiRoot'] = '//www.salesforce.com';

@@ -1,0 +1,3 @@
+window.onload=function()
+{var isMobile=jQuery(".wp-block-navigation__responsive-container-open").first().is(":visible");if(!isMobile)return;var statesMap={"AP":"Andhra Pradesh","AS":"Assam","BR":"Bihar","CG":"Chhattisgarh","DL":"Delhi","GJ":"Gujarat","HP":"Himachal Pradesh","HR":"Haryana","JH":"Jharkhand","KA":"Karnataka","KL":"Kerala","MH":"Maharashtra","MP":"Madhya Pradesh","OD":"Odisha","PB":"Punjab","RJ":"Rajasthan","TN":"Tamil Nadu","TS":"Telangana","UK":"Uttarakhand","UP":"Uttar Pradesh","WB":"West Bengal",};jQuery(".wp-block-navigation__responsive-close").eq(1).find(".wp-block-navigation-item__label").each(function()
+{var v=jQuery(this).text();var v=statesMap[v];jQuery(this).text(v);});};

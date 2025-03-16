@@ -1,0 +1,1 @@
+document.write('<a href=\'https://secure.donga.com/membership/login.php?gourl=\' class=\'btn_login\' target=\'_parent\' data-event_name=\"click_event\" data-ep_button_name=\"로그인\" data-ep_button_area=\"헤더\" data-ep_button_category=\"공통\">로그인</a>');

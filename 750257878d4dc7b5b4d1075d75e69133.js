@@ -1,0 +1,4 @@
+//<![CDATA[
+  var gtmEnvironment = "production"
+
+//]]>

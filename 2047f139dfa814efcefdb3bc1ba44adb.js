@@ -1,0 +1,2 @@
+/* global: ensemble is from dws-ensemble-appshell. */
+        ensemble.processChunk("embedded-app", "const_module-13", function(){ensemble.defineConstModule("metaserver/static/js/modules/constants/dropins", "bf7b6a2b4e209f24dfa47b1cbb10dec4abcb50ad", {"CHOOSER_APP_KEY": "a1gk45gxjylc840", "TRELLO_INTEGRATION_CHOOSER_APP_KEY": "sm4u23pmc6i2now", "__esModule": true})});

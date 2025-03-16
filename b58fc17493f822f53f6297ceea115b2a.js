@@ -1,0 +1,1 @@
+var sbiajaxurl = "https://www.state.gov/wp-admin/admin-ajax.php";

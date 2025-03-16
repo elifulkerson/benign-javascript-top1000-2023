@@ -1,0 +1,2 @@
+function script(url) {
+            try { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url; var x = document.getElementsByTagName('head')[0]; x.appendChild(s); } catch (e) { }} function styleCSS(url) {try { var giftofspeed = document.createElement('link'); giftofspeed.rel = 'stylesheet'; giftofspeed.href = url; giftofspeed.type = 'text/css'; var godefer = document.getElementsByTagName('link')[0]; godefer.parentNode.insertBefore(giftofspeed, godefer); } catch (e) { }}

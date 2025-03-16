@@ -1,0 +1,1 @@
+P.when("component-feed-carousel").execute(function(c) {c.createCarousel("#460400ba-46aa-49c9-9944-43386d2f7e13 .feed-carousel", 10,  0 ); });

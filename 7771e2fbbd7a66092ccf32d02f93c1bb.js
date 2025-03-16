@@ -1,0 +1,3 @@
+window.TNKLib=window.TNKLib||{};window.TNKLib.requestManager = {adserverRequestSent: false};
+(function(a,c,b){c=a.document;b=c.createElement("script");b.async=true;b.src="https://static.tenki.jp/js/tenki_hb.js";c.getElementsByTagName("head")[0].appendChild(b);b.onload=function(){googletag.cmd.push(function(){if(window.TNKLib&&window.TNKLib.pbxReady){window.TNKLib.startHeaderBids()}})}}(top));
+setTimeout(function(){if(!window.TNKLib.requestManager.adserverRequestSent){googletag.cmd.push(function(){googletag.pubads().refresh();window.TNKLib.requestManager.adserverRequestSent=true;console.log("no headerbids")})}},4000);

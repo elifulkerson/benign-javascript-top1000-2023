@@ -1,0 +1,1 @@
+window.ga4DataLayer=window.ga4DataLayer||[];function ga4Tag(){ga4DataLayer.push(arguments);};ga4Tag("js",new Date());ga4Tag("config","G-K9Z2ZEVC8C",{send_page_view:false});

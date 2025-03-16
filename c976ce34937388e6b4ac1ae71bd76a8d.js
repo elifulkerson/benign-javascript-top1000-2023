@@ -1,0 +1,1 @@
+maxmind_user_id='25695';(function(){var loadDeviceJs=function(){var element=document.createElement('script');element.src='https://device.maxmind.com/js/device.js';document.body.appendChild(element);};if(window.addEventListener){window.addEventListener('load',loadDeviceJs,false);}else if(window.attachEvent){window.attachEvent('onload',loadDeviceJs);}})();

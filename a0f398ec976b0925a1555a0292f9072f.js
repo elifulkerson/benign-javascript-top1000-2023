@@ -1,0 +1,1 @@
+function getMetaTag(tag) {let elTag = document.querySelector(`meta[property="${tag}"]`);if (!elTag || !elTag.getAttribute('content')) {return "";}return elTag.getAttribute('content');}

@@ -1,0 +1,3 @@
+var _utag_obj = {"isEnabled":true,"deviceType":"desktop","pageType":"home-site","siteHier":["media","other","home"],"siteSection":["media","other","","","home",""],"siteType":"desktop web","topicId":["0c0e59d4-89c9-4dd1-9dbd-b3eaa824c04a"],"topicName":["general"],"userState":"not authenticated","userType":"anon","dwAccount":"cbsicbssportssite","dwHost":"dw.cbsi.com","siteId":175,"reportSuiteId":"cbsicbssportssite","bkSiteId":3344,"limit":4,"pageName":"\/","siteName":"cbssports","tealium":{"profile":"cbssportssite","env":"prod"},"brandPlatformId":"cbssports_site_desktop","isAvia":true};
+        _utag_obj.pageViewGuid = __window_vguid;
+        var utag_data = _utag_obj;

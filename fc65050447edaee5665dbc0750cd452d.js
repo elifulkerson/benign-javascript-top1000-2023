@@ -1,0 +1,1 @@
+window.DVWebNode=window.DVWebNode||{};DVWebNode.initialRequestID='BKB2557GD0YNC5WPR16D';DVWebNode.loggingEndpoint='https://atv-ps.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode';

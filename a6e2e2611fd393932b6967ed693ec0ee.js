@@ -1,0 +1,1 @@
+$(document).ready(function(){twitter("#twitter-feed","#more_tweets_button")});

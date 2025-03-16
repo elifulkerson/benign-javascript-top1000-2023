@@ -1,0 +1,1 @@
+function hide(){document.getElementById("sekilas-info").style.display="none";}

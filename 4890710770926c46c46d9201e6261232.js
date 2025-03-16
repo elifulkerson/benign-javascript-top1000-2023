@@ -1,0 +1,1 @@
+window.__start = new Date().getTime();

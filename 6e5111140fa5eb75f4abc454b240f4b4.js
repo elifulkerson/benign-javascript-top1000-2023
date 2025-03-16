@@ -1,0 +1,1 @@
+window.sd_outclick_handler = window.sd_outclick_handler || [];

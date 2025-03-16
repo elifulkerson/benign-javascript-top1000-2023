@@ -1,0 +1,2 @@
+if(window.mixTimeout){window.mixTimeout('ameyal-product-shoveler', 'CardInstance7gO9xKRy-ZlVZGkspyq7uA', 90000)};
+P.when('mix:@amzn/mix.client-runtime', 'mix:ameyal-product-shoveler__vBM4Fg3b').execute(function (runtime, cardModule) {runtime.registerCardFactory('CardInstance7gO9xKRy-ZlVZGkspyq7uA', cardModule);if(window.GWI){window.GWI.Card.autoInstActive('CardInstance7gO9xKRy-ZlVZGkspyq7uA');}});

@@ -1,0 +1,1 @@
+var pvServer = 'pv.ltn.com.tw';

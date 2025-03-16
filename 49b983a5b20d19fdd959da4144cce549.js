@@ -1,0 +1,1 @@
+(deployads = window.deployads || []).pageSegment = 'top_page';

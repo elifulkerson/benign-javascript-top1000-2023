@@ -1,0 +1,1 @@
+try{localStorage.setItem('check_storage','local storage');window.supportLS=true;}catch(e){window.supportLS=false;}

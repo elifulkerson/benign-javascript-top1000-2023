@@ -1,0 +1,1 @@
+setTimeout(function () { $("img.lazyload").lazy() }, 1000);

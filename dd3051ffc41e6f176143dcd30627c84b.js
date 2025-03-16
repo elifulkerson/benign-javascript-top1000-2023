@@ -1,0 +1,2 @@
+window.vanilla.addCss({"href":"https:\/\/vanilla.futurecdn.net\/techradar\/791504\/media\/css\/techradar.min.css"})
+window.vanilla.addJs({"id":"main-js","src":"\/\/vanilla.futurecdn.net\/techradar\/791504\/media\/shared\/js\/main.a30c9f0ff49bdf37b122.bundle.js"}, null, 0)

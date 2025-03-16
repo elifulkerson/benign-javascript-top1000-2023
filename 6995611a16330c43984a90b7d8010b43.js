@@ -1,0 +1,1 @@
+[{"@context":"http:\/\/schema.org","@type":"WebSite","name":"\u5df4\u54c8\u59c6\u7279\u96fb\u73a9\u8cc7\u8a0a\u7ad9","url":"https:\/\/www.gamer.com.tw\/","alternateName":"\u5df4\u54c8\u59c6\u7279"},{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.gamer.com.tw\/","logo":"https:\/\/i2.bahamut.com.tw\/baha_logo5.png"}]

@@ -1,0 +1,1 @@
+window.BCTracker=window.BCTracker||{preloadQueue:[],record:function(){this.preloadQueue.push(Array.prototype.slice.call(arguments))},prePageViewCallbacks:[],afterPageView:function(e){this.prePageViewCallbacks.push(e)}},window.ScrollDepthTracker=function(){this.track=function(){}},window.ScrollDepthTracker.track=function(){}

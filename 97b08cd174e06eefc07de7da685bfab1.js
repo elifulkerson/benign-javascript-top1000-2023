@@ -1,0 +1,1 @@
+if(location.hostname.substr(-10)=='ngabbs.com')document.getElementById('icplinka').innerHTML='京ICP备16021487号-5'

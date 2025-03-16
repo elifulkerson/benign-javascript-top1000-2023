@@ -1,0 +1,1 @@
+function appendScript(url,async,defer){let s=document.createElement("script");s.type="text/javascript";s.src=url;if(async){s.async=true;}if(defer){s.defer=true;}s.onerror=()=>onErrorHandler(s.src);s.nonce="";s.crossOrigin="anonymous";document.body.appendChild(s);}

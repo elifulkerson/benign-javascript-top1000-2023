@@ -1,0 +1,31 @@
+var utag_data = {
+    "page_site_product": "WSJ",
+    "page_site": "Online Journal",
+    "page_content_source": "WSJ Online",
+    "page_content_type": "Home",
+    "page_content_type_detail": "desktopweb",
+    "page_content_language": "en-US",
+    "page_performance": "FCP|DCL|FID",
+    "page_access": "free",
+    "page_content_region": "North_America_USA",
+    "user_ref": "",
+    "user_type": "nonsubscriber",
+    "user_exp": "default",
+    "user_tags": "",
+    "sub_paused": "",
+    "page_ad_zone": [
+        "HomePage",
+        "sponsoredSection_US"
+    ],
+    "page_section": "US Home Page",
+    "page_subsection": "",
+    "taxonomy_primary": "",
+    "taxonomy_applies": false,
+    "page_topic": "",
+    "page_id": "HomePage_US_desktop",
+    "search_keywords": "",
+    "cms_name": "CAPS",
+    "edition_issue_date": "",
+    "edition_type": "",
+    "keywords": "News, breaking news, latest news, US news, headlines, world news, business, finances, politics, WSJ, WSJ news, WSJ.com, Wall Street Journal"
+};

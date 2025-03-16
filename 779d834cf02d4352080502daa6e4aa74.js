@@ -1,0 +1,1 @@
+jQuery.subscribe('espn.defer.end', function () { espn.scoreboard.init(); });

@@ -1,0 +1,1 @@
+gptDisplay('esx-home-mosaicalt-1', 'esx-home-mosaicalt', true)

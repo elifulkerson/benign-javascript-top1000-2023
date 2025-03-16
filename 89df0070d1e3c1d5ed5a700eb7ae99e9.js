@@ -1,0 +1,3 @@
+var pageConfig = {"module":"application","action":"application.Index","product":"application","stylesHome":"https:\/\/c5.rgstatic.net\/m\/","staticHost":"https:\/\/c5.rgstatic.net","yuiDisabled":true,"longRunningRequestIdentifier":"LongRunningRequest.application.Index","longRunningRequestFp":"fdc86525ea96570d7a45ce6db037d7efe4e60713","platformFeatures":{"nova":{"UseNovaRefresh":false},"rigel":{"useRigelForgeryOverlay":false},"react":{"propTypesStrictMode":false}},"isLitePage":false,"applicationVersionTag":"v497.10.0","trackingPayload":{"context":{"firstPage":"index","page":"index"}}};
+        var requestConfig = {"correlationId":"rgreq-238f07a84132e2412e3b8de5b5772898","isLoggedIn":false};
+        window.rootUrl = "https://www.researchgate.net/";

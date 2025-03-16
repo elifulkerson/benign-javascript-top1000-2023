@@ -1,0 +1,1 @@
+if(window.ImageLoader) window.ImageLoader.bootstrap({}, document);

@@ -1,0 +1,2 @@
+window.GWI && GWI.AssetUtil && GWI.AssetUtil.load([{"type":"image","src":"https://images-eu.ssl-images-amazon.com/images/G/31/Events/img23/Jupiter23/Homepage/KV_Hero_PC_Day-1_1X_EN._CB575892060_.jpg"}]);
+    window.P && P.register('preload');

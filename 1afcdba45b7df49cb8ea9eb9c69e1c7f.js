@@ -1,0 +1,1 @@
+var config = { contextPath: "/emol" };

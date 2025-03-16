@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".hs__widget").slick({infinite:!1,speed:300,slidesToShow:3,centerMode:!1,arrow:!0,dots:!0})}));

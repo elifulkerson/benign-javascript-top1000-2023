@@ -1,0 +1,1 @@
+var currentPagePath = "\/content\/experience\u002Dfragments\/revamp\u002Dmmonline\/home_page_fragment\/wellness\u002Dsection\u002Dblock\/master";

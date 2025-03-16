@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=live]The Morchie Weakaura has now been broken on the Patch 10.2 PTR but Morchie's hats are now massively bigger in Dawn of the Infinites.", "news-post-652cc2216828c5.15756929", {"allow":40,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335494,"stopAtBreak":1});

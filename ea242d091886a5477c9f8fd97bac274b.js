@@ -1,0 +1,1 @@
+window.__IS_PERF_SCORE_USER_AGENT__=false

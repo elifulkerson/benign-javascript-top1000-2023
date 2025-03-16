@@ -1,0 +1,1 @@
+function querygam_preview(e) { for (var n, r = new RegExp("(?:\\?|&)" + e + "=(.*?)(?=&|$)", "gi"), c = []; null != (n = r.exec(document .location.search));) c[c.length] = n[1]; return c } var gam_preview_id = querygam_preview('gam_preview');

@@ -1,0 +1,1 @@
+SetUltimoMinuto("*",  10, "*");

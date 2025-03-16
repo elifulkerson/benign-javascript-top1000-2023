@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[4884],{20348:function(i,e,t){t.r(e);var _=t(59231);t(2784);e.default=function(i){var e=i.children,t=i.overrideStyles,r=i.id,n=i.isActive,s=void 0===n||n;return(0,_.tZ)("div",{id:r,sx:Object.assign({},s&&{variant:"container"},t)},e)}}}]);
+//# sourceMappingURL=Container-10655741410ff90f9998.js.map

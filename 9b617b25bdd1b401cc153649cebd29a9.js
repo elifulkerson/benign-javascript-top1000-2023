@@ -1,0 +1,1 @@
+jQuery(document).ready(function() {jQuery('.btn-leer-mas').click(function() {jQuery('#collapse-cookies').slideDown('slow', function() {});});});

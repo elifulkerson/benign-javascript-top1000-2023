@@ -1,0 +1,2 @@
+window.immediateFetch.fetch('frontpagePromotedContentMFE', '\/frontpage\/promoted\u002Dcontent\/json\u003FisReturningUser\u003D0\u0026hasPrefs\u003D0');
+            window.immediateFetch.fetch('jfyCarousel', '\/frontpage\/recommendation\u002Dcarousel\/recommendations');

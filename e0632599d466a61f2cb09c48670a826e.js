@@ -1,0 +1,1 @@
+var boxPrehideSelectorList="body,#site-header,.info-notice__top"

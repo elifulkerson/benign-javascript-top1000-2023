@@ -1,0 +1,1 @@
+var __killIETmpl=document.getElementById("new-kill-ie"),__isIE=document.documentMode||+(navigator.userAgent.match(/MSIE (\d+)/)&&RegExp.$1);__isIE&&(__killIETmpl.setAttribute("active",!0),document.body.style.overflow="hidden")

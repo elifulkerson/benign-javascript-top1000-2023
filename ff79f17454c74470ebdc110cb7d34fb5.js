@@ -1,0 +1,1 @@
+var mailboxLoginPlaceholder = new Placeholder(mr.id('mailbox__login'), mr.id('mailbox__placeholder_login'));

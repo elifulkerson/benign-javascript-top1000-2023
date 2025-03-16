@@ -1,0 +1,1 @@
+window.prefetch_asset_urls = [];

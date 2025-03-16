@@ -1,0 +1,1 @@
+window.__OOP_ADS_AVAILABLE__=false

@@ -1,0 +1,1 @@
+window.webmd = window.webmd || {};

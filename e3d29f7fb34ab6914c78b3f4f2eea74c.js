@@ -1,0 +1,1 @@
+ISC_IS.t={"pt":["home","home_vertical"]};ISC_IS.t.group=[ISC_IS.g];ISC_IS.td&&(ISC_IS.t.dev=["1"]);

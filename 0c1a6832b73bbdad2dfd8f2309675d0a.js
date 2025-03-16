@@ -1,0 +1,1 @@
+window.qyTtiStart = Date.now()

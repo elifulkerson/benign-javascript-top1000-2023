@@ -1,0 +1,2 @@
+if(window.mixTimeout){window.mixTimeout('quad-multi-asin-card-v2', 'CardInstanceQr8TVRN6EZkzVi-wBhWuBw', 90000)};
+P.when('mix:@amzn/mix.client-runtime', 'mix:quad-multi-asin-card-v2__rd5nPbnd').execute(function (runtime, cardModule) {runtime.registerCardFactory('CardInstanceQr8TVRN6EZkzVi-wBhWuBw', cardModule);if(window.GWI){window.GWI.Card.autoInstActive('CardInstanceQr8TVRN6EZkzVi-wBhWuBw');}});

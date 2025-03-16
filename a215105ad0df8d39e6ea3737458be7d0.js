@@ -1,0 +1,1 @@
+window.__ADS_TO_DISPLAY__=[{"adUnit":"175280759\u002FUI3-DESKTOP\u002FUI3-DESKTOP-BGIMG","slotID":"background-image-ads","sizes":[],"isOutOfPage":true,"targetingArguments":[{"key":"page_type","value":"home"}]}]

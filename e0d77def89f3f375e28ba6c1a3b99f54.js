@@ -1,0 +1,1 @@
+var MYF_WIDGET_STORAGE_totalStorage= 10737418240;MYF_WIDGET_STORAGE_usedStorage= 0;MYF_WIDGET_STORAGE_usedStoragePercent=Math.round(Math.min(parseFloat(MYF_WIDGET_STORAGE_usedStorage/MYF_WIDGET_STORAGE_totalStorage),1)*100),MYF_STORAGE_bAdFreeDownloadPremiumUser= false,aXq= false,aXm= false,aWh="",aXE= 0,aWx= false,aXd='4.50',window.addEventListener('onload',function(){aXa();});

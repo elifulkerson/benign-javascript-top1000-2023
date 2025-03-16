@@ -1,0 +1,1 @@
+if(typeof dellScriptLoader!=='undefined')dellScriptLoader.load([{"url":"https://www.dell.com/cdn/assets/csb/unifiedmastheadexternal/bundles/1.0.1.13691/js/signupforemail.min.js","order":"1000","crossorigin":false}])

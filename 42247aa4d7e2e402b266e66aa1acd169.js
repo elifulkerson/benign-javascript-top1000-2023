@@ -1,0 +1,1 @@
+var ajax_object = {"ajax_url":"https:\/\/www.otvfoco.com.br\/wordpress\/wp-admin\/admin-ajax.php"};

@@ -1,0 +1,1 @@
+window.__env__ = {"NODE_ENV":"production","RELEASE_BRANCH":"23-10-13-t-team","RELEASE_BUILD_NUMBER":"'4555'","RESOURCE_URL_PATH_PREFIX":"\u002Fassets\u002F","APP_NAME":"fugu-old","SERVER_ENV":"production","SPRITE_PATH":"sprite.38U7X8hMNqq8vvTyHRwo.svg"}

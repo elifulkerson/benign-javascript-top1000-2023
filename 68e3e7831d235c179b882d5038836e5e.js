@@ -1,0 +1,1 @@
+jQuery(".slide-mqzq").slide({mainCell:".slide-pages-view",effect:'top',titCell:".num-switch-tab",autoPage:'<span>$</span>',interTime:10000,autoPlay:true,trigger:'click',switchLoad:"data-src",delayTime:0});

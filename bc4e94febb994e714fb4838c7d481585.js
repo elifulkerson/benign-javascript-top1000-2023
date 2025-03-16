@@ -1,0 +1,1 @@
+window.SW_DOMAIN = "walmart.com"

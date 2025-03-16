@@ -1,0 +1,5 @@
+var __dataLayer = window.__dataLayer || {};
+
+    __dataLayer = Object.assign({}, __dataLayer,
+        {"site":{"country":"us","site":"espn","orientation":"desktop","edition":"en-us","language":"en_us","editionKey":"espn-en"},"pzn":{"login_status":"","entitlements":"none","disneyplus_bundle":"no","has_favorites":"no","subscriber_type":"","has_fantasy":"no","has_notifications":"no","auto_start":"no"},"page":{"nav_method":"","page_url":"https://www.espn.com","content_category":"","page_type":"","story_id":"","section":"frontpage","prev_page":"","espnplus_category":"","espnplus_products":"","game_state":"","premium":"","content_type":"index","game_detail":"","page_name":"","game_id":"","page_infrastructure":"sCore","author":"","league":"no league","player_team_detail":"","story_title":"","feed_rule":"","espnplus_content":"","mktg_campaign":"","feed_type":"","sport":""},"visitor":{"dssid":"","ad_blocker":"no","consent_groups":""},"space":"espn"}
+    );

@@ -1,0 +1,1 @@
+window.xkeys = ["pcgamer-platform-responsive","pcgamer-page-homepage","pcgamer-region-US"];

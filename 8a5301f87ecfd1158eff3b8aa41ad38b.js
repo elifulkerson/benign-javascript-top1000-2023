@@ -1,0 +1,1 @@
+var scriptParams = {"google_search_engine_id":"partner-pub-1418701686849702:3024664472"};

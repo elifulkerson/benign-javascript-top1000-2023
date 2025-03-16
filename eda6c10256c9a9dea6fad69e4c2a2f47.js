@@ -1,0 +1,1 @@
+var img_placeholder = 'https://visualstudio.microsoft.com/wp-content/themes/Avada-Child-Theme/assets/img/vscom-img-placeholder.png';

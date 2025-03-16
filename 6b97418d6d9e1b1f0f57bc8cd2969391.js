@@ -1,0 +1,1 @@
+$J( function() { CreateFadingCarousel( $J('#spotlight_carousel'), 0); } );

@@ -1,0 +1,1 @@
+(function () {window.dataLayer.push({event: "Consent Status Received", "consent": true})})()

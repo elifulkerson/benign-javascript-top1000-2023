@@ -1,0 +1,1 @@
+document.documentMode<=11&&location.replace("/unsupported.html")

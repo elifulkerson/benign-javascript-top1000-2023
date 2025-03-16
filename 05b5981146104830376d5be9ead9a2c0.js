@@ -1,0 +1,1 @@
+var ulhost = "https://upld.e-hentai.org/";

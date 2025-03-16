@@ -1,0 +1,1 @@
+var cp_max='120'; var Show_FT='2'; var Default_isFT='1'; var StranIt_Delay='50'; var sc_relate='';

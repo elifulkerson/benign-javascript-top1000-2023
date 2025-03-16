@@ -1,0 +1,1 @@
+!function(){try{if(!navigator.userAgent.match(/Newegg.+App/ig))return;var e=document.createElement("style");e.innerText="html.sticky-header-top body{padding-top: 0px!important;}header{display: none;}footer{display: none;}",document.querySelector("head").append(e)}catch(t){console.log(t)}}();

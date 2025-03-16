@@ -1,0 +1,1 @@
+if (performance && performance.mark) performance.mark("TTP")

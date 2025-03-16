@@ -1,0 +1,1 @@
+for(var dom=document.querySelectorAll(".titleStyle"),i=0;i<dom.length;i++)for(var style=dom[i].attributes["data-style"].value,styleArr=style.split(","),j=0;j<styleArr.length;j++){var name=styleArr[j].split(":")[0],value=styleArr[j].split(":")[1];name&&(name=name.replace(" ","")),value&&(value=value.replace(" ","")),dom[i].style[name]=value}

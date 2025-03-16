@@ -1,0 +1,1 @@
+typeof jQuery !== 'undefined' && typeof jQuery.jet !== 'undefined'  && jQuery.jet.started === false  && jQuery(document).trigger('start');

@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=live]The Emerald Dream is home to many Wild Gods of Azeroth. In 10.2, we meet Q'onzu, a particularly strange Wild God known as the Loa of Change.", "news-post-652cc22164c701.92859969", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335283,"stopAtBreak":1});

@@ -1,0 +1,1 @@
+typeof uet==='function' && uet('cf')

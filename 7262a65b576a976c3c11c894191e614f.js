@@ -1,0 +1,2 @@
+/* global: ensemble is from dws-ensemble-appshell. */
+        ensemble.processChunk("embedded-app", "const_module-2", function(){ensemble.defineConstModule("metaserver/static/js/modules/constants/request", "bf7b6a2b4e209f24dfa47b1cbb10dec4abcb50ad", {"LOGGED_OUT_X_DROPBOX_UID": -1, "IS_HTTP2": true, "PAGE_LOAD_TIME": 1697428153, "REQUEST_ID": "35c98faaf56d4fb98e478e4b5d9094c4", "REQUEST_START_TIME": 1697428153109, "REQUEST_TRACING_ENABLED": false, "__esModule": true})});

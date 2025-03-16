@@ -1,0 +1,1 @@
+window.AviviD = window.AviviD || {settings:{},status:{}}; AviviD.web_id = "bolasport"; AviviD.category_id = "20230615000001"; AviviD.tracking_platform = 'likr';

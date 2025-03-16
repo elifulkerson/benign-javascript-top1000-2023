@@ -1,0 +1,1 @@
+var CanRunAds=!0;

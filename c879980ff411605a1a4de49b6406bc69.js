@@ -1,0 +1,1 @@
+var commonpartv2_siteLayoutType = 'single';

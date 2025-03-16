@@ -1,0 +1,1 @@
+var require = {waitSeconds:0};

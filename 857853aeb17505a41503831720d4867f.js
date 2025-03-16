@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=d4]The special Mother's Protection armor sets are leaving the shop in Season 2 - now's your last chance to grab them before they're gone!", "news-post-652cc221634361.21848071", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335510,"stopAtBreak":1});

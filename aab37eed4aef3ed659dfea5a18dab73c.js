@@ -1,0 +1,1 @@
+var beforeload = (new Date()).getTime()

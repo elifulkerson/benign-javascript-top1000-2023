@@ -1,0 +1,1 @@
+WH.News.initRecentPosts();

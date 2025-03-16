@@ -1,0 +1,3 @@
+(function()
+		{ var prox_url = "https://segment-data.zqtk.net/newscorpjs-1f38g3?url="+encodeURIComponent(window.location.href); var prox_script=document.createElement('script');prox_script.type='text/javascript';prox_script.src=prox_url;prox_script.async=false; if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(prox_script); else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(prox_script); }
+	)();

@@ -1,0 +1,1 @@
+__displayAboveTheFold=new Date;window.performance && window.performance.mark && window.performance.mark("displayAboveTheFold.fromStart");

@@ -1,0 +1,1 @@
+document.getElementById('grid_size_button--' + window.initialGridSize).classList.add('selected');

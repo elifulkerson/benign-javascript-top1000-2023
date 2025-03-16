@@ -1,0 +1,1 @@
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5PBM4HC45W',{dimension5:window.ISC_IS&&(ISC_IS.g)||'U',metric2:window.ISC_IS&&(ISC_IS.adblock?1:0)||3});

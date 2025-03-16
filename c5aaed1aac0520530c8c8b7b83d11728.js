@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=wrath]Haris Pilton in Shattrath City has a 24 Slot Bag available for purchase at 3,000 gold, the Portable Hole!", "news-post-652cc2216916b6.42001154", {"allow":40,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335502,"stopAtBreak":1});

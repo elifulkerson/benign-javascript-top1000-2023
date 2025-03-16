@@ -1,0 +1,1 @@
+window.MEET_NOW_WIDGET_SETTINGS = { version: "1.0.150", pathToBlob: "https://secure.skypeassets.com/apollo/0.0.0/meetnowwidget" };

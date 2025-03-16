@@ -1,0 +1,1 @@
+window.jQuery || document.write("<script src='https://www.liputan6.com/assets/javascripts/vendor/jquery.min.js'><\/script>");

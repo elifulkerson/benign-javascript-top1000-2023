@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=d4]Blizzard has released the Patch 1.2.0 patch notes for Diablo 4, including changes for every class, new Legendary Aspects and Uniques and much more!", "news-post-652cc2214e95b5.84419138", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335443,"stopAtBreak":1});

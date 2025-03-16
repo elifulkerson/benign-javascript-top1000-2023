@@ -1,0 +1,2 @@
+function ajax_get(url, callback) { var xmlhttp = new XMLHttpRequest(); xmlhttp.onreadystatechange = function () { if (xmlhttp.readyState == 4 && xmlhttp.status == 200) { try { var data = JSON.parse(xmlhttp.responseText); } catch (err) { return; } callback(data); } }; xmlhttp.open("GET", url, true); xmlhttp.send(); }
+    if (__usrCntry == '_NA_') { ajax_get('https://wapi.ndtv.com/geo.json', function (data) { if (data['country']) { setCookie("__usrCntry", data['country'], '1', ''); } }); }

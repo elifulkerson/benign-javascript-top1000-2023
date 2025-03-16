@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[6663],{85601:function(e,t,n){n.r(t);var s=n(59231);t.default=function(e){var t=e.children;return(0,s.tZ)("div",{className:"LogoSet",sx:{display:"flex",justifyContent:["space-between",null,"space-between"],flexWrap:"wrap",gap:"spacing4",pb:["94px",null,"32px"],position:"relative"}},t)}}}]);
+//# sourceMappingURL=LogoSet-29856f348daeb08947f8.js.map

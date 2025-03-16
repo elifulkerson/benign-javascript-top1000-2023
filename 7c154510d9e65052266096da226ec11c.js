@@ -1,0 +1,1 @@
+window.cmsPageVariant="default";

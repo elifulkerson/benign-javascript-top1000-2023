@@ -1,0 +1,1 @@
+VALVE_PUBLIC_PATH = "https:\/\/community.cloudflare.steamstatic.com\/public\/";

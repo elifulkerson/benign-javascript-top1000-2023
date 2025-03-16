@@ -1,0 +1,1 @@
+!function(a9,a){if(a[a9])return;function q(c,r){if(!a[a9]._Q)a[a9]._Q=[];a[a9]._Q.push([c,r])}a[a9]={init:function(){q('i',arguments)},fetchBids:function(){q('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]}}('apstag',window);

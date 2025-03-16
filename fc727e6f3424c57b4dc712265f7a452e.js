@@ -1,0 +1,1 @@
+window.wp_dot_addparams = Object.assign(window.wp_dot_addparams, {"ctype":"index","canonical":"https://www.wp.pl","base":"sg","ccategory":"sg","csystem":"ncr"});

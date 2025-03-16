@@ -1,0 +1,1 @@
+P.when("component-feed-carousel").execute(function(c) {c.createCarousel("#CardInstanceo-vwOWkcfT92GPgYbJThXA .feed-carousel", 10,  0 ); });

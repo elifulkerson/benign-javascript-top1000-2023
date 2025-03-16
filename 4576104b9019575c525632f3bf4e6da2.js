@@ -1,0 +1,1 @@
+const breakingNewsData={observedSections:[19],hostname:'node1.digprod.express.co.uk',prefix:'',secure:!0,port:443,JWT:'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvZXhwcmVzcy5jby51ayIsImF1ZCI6Imh0dHBzOlwvXC93d3cuZXhwcmVzcy5jby51ayIsImlhdCI6MTY5NzQzMzQ1MCwiZXhwIjoxNjk3NTE5ODUwLCJwcmVmaXgiOiIifQ.2TKM_RT1FHEyaJ7IbjhKrTFDJQLM0Rjg8eQ6PlA4ua0',}

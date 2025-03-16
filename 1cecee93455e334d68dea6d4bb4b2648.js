@@ -1,0 +1,1 @@
+(()=>{const s={Init:function(s){const t=document.getElementById(s);t&&(t.classList.add("sticky"),setTimeout((()=>{t.classList.remove("sticky")}),4500))}};ExpressApp=Object.assign(Object.assign({},ExpressApp),{AdControl:s})})();

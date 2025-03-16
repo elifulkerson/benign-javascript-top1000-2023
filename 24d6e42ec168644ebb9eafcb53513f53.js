@@ -1,0 +1,1 @@
+document.getElementsByTagName('html')[0].classList.replace("no-js" , localStorage.getItem("nightmode")=='1' ? 'night-mode' : 'js' );

@@ -1,0 +1,1 @@
+window.heroSectionCardCnt = 4;

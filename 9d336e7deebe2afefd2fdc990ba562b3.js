@@ -1,0 +1,1 @@
+window.isNewDevice = !/bnc-uuid/.test(document.cookie)

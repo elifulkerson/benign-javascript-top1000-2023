@@ -1,0 +1,1 @@
+artemisRequire([['home', 'masterModule', 'uhfHeader']], function(uhf) { uhf.init(); });

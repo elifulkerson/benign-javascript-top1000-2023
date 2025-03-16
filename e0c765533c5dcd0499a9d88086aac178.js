@@ -1,0 +1,1 @@
+var AdBridg = AdBridg || {cmd: []};

@@ -1,0 +1,1 @@
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://m.media-amazon.com/images/I/11uvEWC1SeL.js?AUIClients/ShoppingPortalAssets-cookieConsent');

@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=live]In the latest Patch 10.2 PTR build, the Mythic Fyrakk mount Anu'relos, Flames Guidance has also been datamined as a new Druid customization option!", "news-post-652cc2214c2aa3.65955353", {"allow":40,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335458,"stopAtBreak":1});

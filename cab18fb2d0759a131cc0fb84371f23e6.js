@@ -1,0 +1,1 @@
+var staticUrl = "//static.gtarcade.com/en-us/";

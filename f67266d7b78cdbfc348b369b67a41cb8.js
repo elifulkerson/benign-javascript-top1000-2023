@@ -1,0 +1,1 @@
+performance.mark('consent_tcf_api_available');

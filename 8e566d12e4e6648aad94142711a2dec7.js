@@ -1,0 +1,3 @@
+window.targetGlobalSettings = {
+        bodyHidingEnabled: false
+    };

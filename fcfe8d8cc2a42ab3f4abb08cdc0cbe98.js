@@ -1,0 +1,1 @@
+$('.fixed-block .top-bar .top-bar__nav .dropdown a').on('click', () => SetCookie('news_lang', 'ru', 365));

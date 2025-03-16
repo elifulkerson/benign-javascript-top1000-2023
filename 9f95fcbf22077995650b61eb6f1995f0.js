@@ -1,0 +1,1 @@
+window.addEventListener("DOMContentLoaded",(()=>{document.querySelectorAll(".discount-codes-bar a").forEach((e=>{e.addEventListener("click",(()=>{const t=e.dataset.id,o=e.dataset.slot;let a="See all";t&&o&&(a=`Slot ${o} - ${t}`),ExpressApp.GoogleAnalytics.TrackCustomEvent("Discount Codes Bar Click","Homepage",a)}))}))}));

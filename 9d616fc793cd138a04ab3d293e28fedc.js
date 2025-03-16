@@ -1,0 +1,2 @@
+/* global: ensemble is from dws-ensemble-appshell. */
+        ensemble.processChunk("embedded-app", "const_module-5", function(){ensemble.defineConstModule("metaserver/static/js/modules/constants/webtiming", "bf7b6a2b4e209f24dfa47b1cbb10dec4abcb50ad", {"LOG_TIMING_DELAY": false, "LOG_BROWSER_PERFORMANCE_INFO": true, "__esModule": true})});

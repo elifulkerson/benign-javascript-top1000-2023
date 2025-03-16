@@ -1,0 +1,2 @@
+(function(){var wh=window.WH=(window.WH||{}),ok=typeof window.addEventListener=='function',d=document,e='event_tracker_ready';wh.largeEvent=function(z,y){ok&&d.addEventListener(e,function(){wh.largeEvent(z,y)})};wh.event=function(z,y){ok&&d.addEventListener(e,function(){wh.event(z,y)})}
+wh.largeEventView=function(z,y,x,w,v,u){ok&&d.addEventListener(e,function(){wh.largeEventView(z,y,x,w,v,u)})};wh.eventView=function(z,y,x,w,v,u){ok&&d.addEventListener(e,function(){wh.eventView(z,y,x,w,v,u)})}})();

@@ -1,0 +1,1 @@
+__template_ui_dynamic_public_path__ = "https://bin.bnbstatic.com/"

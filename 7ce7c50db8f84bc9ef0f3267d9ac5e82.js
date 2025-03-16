@@ -1,0 +1,10 @@
+window.WH.pageName='Main-Page';
+window.WH.pageID=5;
+window.WH.pageNamespace=0;
+window.WH.pageLang='en';
+window.WH.isMobile=1;
+window.WH.stuCount=1;
+window.WH.isAltDomain=0;
+window.WH.topCat1='WikiHow';
+window.WH.topCat2='';
+window.WH.bucket=13;

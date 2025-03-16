@@ -1,0 +1,1 @@
+gagready.push(function(){$('#sc-embed-trigger').waypoint(function(d) { if (d==='down') {$('#top-dock').hide();} else {$('#top-dock').show();} }, { offset: 'bottom-in-view' });});

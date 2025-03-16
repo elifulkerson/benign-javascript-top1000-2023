@@ -1,0 +1,1 @@
+if (info.isLogin) { ById('flashcardLogin').style.display = 'none'; ById('flashcardContent').style.display = ''; waiting('flashcardCont') }

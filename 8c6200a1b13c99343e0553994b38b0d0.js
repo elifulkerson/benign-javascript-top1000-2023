@@ -1,0 +1,1 @@
+B.env.is_rooms_table_splitter = true;

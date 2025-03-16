@@ -1,0 +1,1 @@
+if (policy_review.isReview()) {document.getElementById('policy-info').style.display='block';}else{}

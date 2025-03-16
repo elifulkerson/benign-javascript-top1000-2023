@@ -1,0 +1,1 @@
+document.documentElement.style.setProperty('--app-height', `${document.documentElement.clientHeight||window.innerHeight||0}px`);

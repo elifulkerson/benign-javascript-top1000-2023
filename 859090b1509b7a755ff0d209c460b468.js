@@ -1,0 +1,1 @@
+zgifJalons.timehtml = {t: new Date(), cid: 'start'}

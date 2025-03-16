@@ -1,0 +1,1 @@
+"use strict";(globalThis.TabelogWP=globalThis.TabelogWP||[]).push([[1120],{5554:(a,e,o)=>{var s=o(5036),t=o(3238),i=o(7199),l=o(1710),r=o(1486),d=o(3442);d.lazyLoadXT.autoInit=!1,d((()=>{t.Z.ready();const a=d("#js-top-main-visual"),e=a.offset().top+a.innerHeight();(0,i._)(e),l.Z.ready(),r.Z.ready(),s.K.update()}))}},a=>{var e;e=5554,a(a.s=e)}]);

@@ -1,0 +1,1 @@
+!function(){"use strict";window.addEventListener("load",(function(){document.getElementsByTagName("html")[0].classList.add("loaded")}),!1)}();

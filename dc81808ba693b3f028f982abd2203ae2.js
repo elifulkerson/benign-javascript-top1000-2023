@@ -1,0 +1,3 @@
+M.state.advert.puids = {
+            'puid3': 29414,'puid4': 181,'puid6': 380,'puid1': 26,'puid15': 2,'puid17': 0,'puid16': '','puid2': 'sun','puid29': 0,'puid10': 27,'puid20': 5,'puid26': '','puid27': 3,'puid28': 0,'puid22': 0,'puid23': 0,'puid24': 0,'puid25': 0,'puid8': M.fn.getABGroup(),'puid13': M.fn.getSectionName(),'puid19': M.fn.getColumnsQty(),'puid21': M.fn.getWindowWidth(),'puid18': 'gismeteo_ru_new_desktop',
+        }

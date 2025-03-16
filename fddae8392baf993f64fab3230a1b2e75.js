@@ -1,0 +1,1 @@
+/* <![CDATA[ */ ringDataLayer = {"context":{"variant":{"accelerator":"d3d3Lm9uZXQucGw6OkFQUk9EXzNfNl8w"}},"content":{"object":{"type":"home"}},"ads":{"supported":{"grids":[0,1,2]},"originDomainForTags":true,"network":"1746213"}}; /* ]]> */

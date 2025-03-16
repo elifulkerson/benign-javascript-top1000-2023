@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[679],{10475:function(e,_,d){d.r(_);var r=d(2784),n=d(33914);_.default=function(e){var _=e.component,d=_.fieldHeader,t=_.fieldBody;return r.createElement(n.dk,{header:d,body:null==t?void 0:t.processed})}}}]);
+//# sourceMappingURL=dataComponents-HeaderAndBodyData-9e860d5af0638b798b54.js.map

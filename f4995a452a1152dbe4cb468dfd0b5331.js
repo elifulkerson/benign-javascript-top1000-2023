@@ -1,0 +1,1 @@
+var sch=sch||{};(function(){var n="click";sj_evt.bind("onP1",function(){setTimeout(function(){var i=_ge("id_h"),t=_ge("id_sc");i&&t&&(sj_jb("Blue/HamburgerServicesHeaderFlyout_c",0,i,"mouseover",t,n,t,"focus"),sj_be(t,n,function(n){sch.clk=n}))},50)},1)})()

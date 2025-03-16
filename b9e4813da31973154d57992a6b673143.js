@@ -1,0 +1,1 @@
+window.isIE = !!window.MSInputMethodContext && !!document.documentMode;

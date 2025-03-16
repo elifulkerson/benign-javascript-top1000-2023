@@ -1,0 +1,1 @@
+window.allScripts = window.allScripts || []; window.allScripts.push({ type: "gdpr", script: "%3Cscript%0A%20%20%20%0A%20%20%20%20data-consent%3D%22ANALYTICS%22%0A%20%20%20%20async%3D%22%22%0A%20%20%20%20src%3D%22https%3A%2F%2Fcdn.confiant-integrations.net%2Fcdnm50QDU6s2lq_RrjTCOPkh-uY%2Fgpt_and_prebid%2Fconfig.js%22%0A%20%20%3E%3C%2Fscript%3E" });

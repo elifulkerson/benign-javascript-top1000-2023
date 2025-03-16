@@ -1,0 +1,1 @@
+try{document.cookie = 'isframesetenabled=1; path=/;';}catch(exception){}

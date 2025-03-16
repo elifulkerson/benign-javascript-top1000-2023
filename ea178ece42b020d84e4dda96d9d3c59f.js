@@ -1,0 +1,1 @@
+if (window.performance) {window.performance.mark && window.performance.mark('UH-0-Blank');window.performance.measure && window.performance.measure('UH-0-BlankDone','PageStart','UH-0-Blank');}

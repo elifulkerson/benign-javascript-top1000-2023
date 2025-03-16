@@ -1,0 +1,1 @@
+IOMm('configure', { st: 'bild', dn: 'data-bb21a2f11b.bild.de', mh: 5 });

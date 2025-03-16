@@ -1,0 +1,1 @@
+if($.client.os=='Mac'){$('body').addClass('mac');}

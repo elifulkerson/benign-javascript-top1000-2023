@@ -1,0 +1,1 @@
+window.__UNSPLASH__ = { consent: { tag: 'NotRequired' } };

@@ -1,0 +1,1 @@
+var targetServerState = JSON.stringify({"4D6368F454EC41940A4C98A6@AdobeOrg":{"sdid":{"supplementalDataIDCurrent":"4244ADEBC5ED0BD0-1265881F6CFB45FE","supplementalDataIDCurrentConsumed":{"payload:target-global-mbox":true},"supplementalDataIDLastConsumed":{}}}});

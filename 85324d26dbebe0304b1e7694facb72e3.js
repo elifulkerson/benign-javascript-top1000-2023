@@ -1,0 +1,1 @@
+adverts.addToArray({"pos":"billboard","dcopt":true})

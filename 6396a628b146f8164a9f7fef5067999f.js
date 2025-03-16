@@ -1,0 +1,1 @@
+window.STICKY_FEATURED_VIDEO = 1

@@ -1,0 +1,43 @@
+var CondicionActualMetar = new Array();
+
+CondicionActualMetar['SCAR'] = 'SCAR|03:00|270|7.4|9999||19|OVC027|cubiertonoche.png|83|Cubierto';
+CondicionActualMetar['SCDA'] = 'SCDA|03:00|200|13.0|9999||17|SKC|despejadonoche.png|77|Despejado';
+CondicionActualMetar['SCCF'] = 'SCCF|03:00|090|22.2|9999||10|SKC|despejadonoche.png|46|Despejado';
+CondicionActualMetar['SCFA'] = 'SCFA|03:00|200|14.8|9999||16|BKN008 OVC012|cubiertonoche.png|82|Cubierto';
+CondicionActualMetar['SCAT'] = 'SCAT|03:00|230|5.6|9999||13||despejadonoche.png|88|Despejado';
+CondicionActualMetar['SCSE'] = 'SCSE|03:00|VRB|3.7|9999||14||despejadonoche.png|82|Despejado';
+CondicionActualMetar['SCVM'] = 'SCVM|03:00|360|3.7|4000|BR|12|SCT008 OVC012|nieblanoche.png|94|Niebla';
+CondicionActualMetar['SCRD'] = '';
+CondicionActualMetar['SCSN'] = 'SCSN|03:00|230|5.6|||11|SCT002 BKN010 OVC017|cubiertonoche.png|100|Cubierto';
+CondicionActualMetar['SCEL'] = 'SCEL|03:00|230|11.1|8000||12|BKN006 OVC010|cubiertonoche.png|88|Cubierto';
+CondicionActualMetar['SCTB'] = '';
+CondicionActualMetar['SCRG'] = '';
+CondicionActualMetar['SCIC'] = 'SCIC|03:00|||||13|OVC016|cubiertonoche.png|94|Cubierto';
+CondicionActualMetar['SCCH'] = 'SCCH|03:00|270|5.6|9999||9|SKC|despejadonoche.png|93|Despejado';
+CondicionActualMetar['SCIE'] = 'SCIE|03:00|220|18.5|9999||10|FEW020|pocasnubesnoche.png|82|Despejado';
+CondicionActualMetar['SCGE'] = '';
+CondicionActualMetar['SCQP'] = 'SCQP|03:00|300|11.1|9999||10|OVC011|cubiertonoche.png|87|Cubierto';
+CondicionActualMetar['SCVD'] = 'SCVD|03:00|VRB|1.9|9999||7||despejadonoche.png|93|Despejado';
+CondicionActualMetar['SCJO'] = 'SCJO|03:01|000|0.0|1400||3||despejadonoche.png|100|Despejado';
+CondicionActualMetar['SCTE'] = 'SCTE|03:00|190|1.9|9999||3|SKC|despejadonoche.png|93|Despejado';
+CondicionActualMetar['SCON'] = 'SCON|03:00|240|16.7|9999||9|SKC|despejadonoche.png|93|Despejado';
+CondicionActualMetar['SCTN'] = 'SCTN|03:00|VRB|3.7|9999||5|BKN016|parcialnoche.png|100|Nublado';
+CondicionActualMetar['SCFT'] = 'SCFT|03:00|290|9.3|9999||8||despejadonoche.png|81|Despejado';
+CondicionActualMetar['SCMK'] = 'SCMK|03:00|||||10||despejadonoche.png|76|Despejado';
+CondicionActualMetar['SCAS'] = '';
+CondicionActualMetar['SCCY'] = 'SCCY|02:00|180|5.6|9999||4|SKC|despejadonoche.png|75|Despejado';
+CondicionActualMetar['SCBA'] = 'SCBA|03:00|160|18.5|9999||6||despejadonoche.png|56|Despejado';
+CondicionActualMetar['SCCC'] = '';
+CondicionActualMetar['SCHR'] = '';
+CondicionActualMetar['SCNT'] = '';
+CondicionActualMetar['SCCI'] = 'SCCI|03:00|280|7.4|9999||3|SCT045|parcialaltanoche.png|87|Nubosidad parcial';
+CondicionActualMetar['SCFM'] = '';
+CondicionActualMetar['SCGZ'] = '';
+CondicionActualMetar['SCIP'] = 'SCIP|01:00|300|16.7|9999||20|FEW010 SCT020 BKN030|parcialnoche.png|88|Nublado';
+CondicionActualMetar['SCIR'] = '';
+CondicionActualMetar['SCRM'] = 'SCRM|03:00|330|44.4|1200|SHSNDRSN|-2|OVC003|nievenoche.png|100|Nubosidad parcial y chubascos de nieve';
+CondicionActualMetar['SCQN'] = '';
+
+var CondicionActualMetar_actualizado = '2023-10-23 03:09:02 hrs.';
+var CondicionActualMetar_version = 'condicion_actual_script_produccion.php (10.2.62.65)';
+

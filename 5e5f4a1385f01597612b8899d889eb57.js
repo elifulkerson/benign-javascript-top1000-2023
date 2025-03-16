@@ -1,0 +1,5 @@
+$(document).ready(function () { 
+    setTimeout(function(){
+    var t = $(".gallery_cont").position(), o = $(window).height(), s = t.top - parseInt(o) + parseInt($(".gallery_cont").height()); $(window).scroll(function () { var t = $(".ft-sticky").outerHeight() + 15; $(window).scrollTop() > s ? $(".ft-sticky:visible").length > 0 && ($(".ft-sticky").css({ transform: "translateY(0%)" }), $(".goto-top").css("bottom", t + "px")) : $(".ft-sticky").is(":visible") && ($(".ft-sticky").css({ transform: "translateY(120%)" }), $(".goto-top").css("bottom", "5%")) }), $(window).scroll(function () { $(this).scrollTop() ? $(".goto-top").fadeIn().css("transform", "scale(1,1)") : $(".goto-top").fadeOut().css("transform", "scale(0,0)") }), $(".goto-top").click(function () { $("html, body").animate({ scrollTop: 0 }, 1e3) })
+}, 500);
+     });

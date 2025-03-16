@@ -1,0 +1,1 @@
+$J( function() { InitTopSellersControls( $J('#topsellers_controls') ); } )

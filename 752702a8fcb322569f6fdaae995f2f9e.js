@@ -1,0 +1,2 @@
+var framebar_url = {"profile":"https:\/\/connect.detik.com\/dashboard\/","logout":"https:\/\/connect.detik.com\/oauth\/signout?redirectUrl=https%3A%2F%2Fwww.detik.com%2F","register":"https:\/\/connect.detik.com\/accounts\/register?clientId=64&redirectUrl=https%3A%2F%2Fwww.detik.com%2F&ui=popup&parentURI=https:\/\/www.detik.com\/","login":"https:\/\/connect.detik.com\/oauth\/authorize?clientId=64&redirectUrl=https%3A%2F%2Fwww.detik.com%2F&ui=popup&parentURI=https:\/\/www.detik.com\/"};
+    var mpc_qc_url = "https://connect.detik.com/api/mpc/quickcard/html?ci=64";

@@ -1,0 +1,1 @@
+window.allScripts = window.allScripts || []; window.allScripts.push({ type: "gdpr", script: "%3Cscript%20data-script-label%3D%22onesignal%22%20src%3D%22https%3A%2F%2Fcdn.onesignal.com%2Fsdks%2FOneSignalSDK.js%22%20async%3D%22%22%3E%3C%2Fscript%3E" });

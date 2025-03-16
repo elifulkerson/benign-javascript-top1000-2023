@@ -1,0 +1,1 @@
+Hatena.Diary.GlobalHeader.init()

@@ -1,0 +1,1 @@
+window.allScripts = window.allScripts || []; window.allScripts.push({ type: "first-party", script: "%3Cscript%0A%20%20%20%20%20%20async%0A%20%20%20%20%20%0A%20%20%20%20%20%20data-consent%3D%22ANALYTICS%22%0A%20%20%20%20%20%20type%3D%22text%2Fjavascript%22%0A%20%20%20%20%20%20src%3D%22%2F%2Fstatic.chartbeat.com%2Fjs%2Fchartbeat.js%22%0A%20%20%20%20%3E%3C%2Fscript%3E" });

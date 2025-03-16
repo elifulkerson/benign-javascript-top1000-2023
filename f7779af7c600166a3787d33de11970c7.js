@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=d4]Blizzard has shared a preview of Patch 1.2.1 during their Campfire Chat livestream, introducing training dummies and a Paragon Board reset option!", "news-post-652cc22165a0f6.73193039", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335445,"stopAtBreak":1});

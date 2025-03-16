@@ -1,0 +1,2 @@
+var userAgent=window.navigator.userAgent;if(userAgent.indexOf("MSIE ")!==-1||!!navigator.userAgent.match(/Trident.*rv\:11\./)){function loadFont(fontWeight,url){var newStyle=document.createElement('style');newStyle.appendChild(document.createTextNode('@font-face{font-family: "Roboto";font-style: normal;font-weight: '+fontWeight+';font-display: swap;src: url('+url+') format("woff");}'));document.body.appendChild(newStyle);}
+loadFont("300","//dds.dell.com/fonts/2.137.1/Roboto-Light.woff");loadFont("400","//dds.dell.com/fonts/2.137.1/Roboto-Regular.woff");}

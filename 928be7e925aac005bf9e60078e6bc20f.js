@@ -1,0 +1,1 @@
+var pvDomain = 'pv.ltn.com.tw';

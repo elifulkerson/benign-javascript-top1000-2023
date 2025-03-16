@@ -1,0 +1,1 @@
+window._taboola = window._taboola || [];_taboola.push({mode: 'thumbnails-d',container: 'taboola-right-rail-ad-spot', placement: 'Right Rail ad spot',target_type: 'mix'});

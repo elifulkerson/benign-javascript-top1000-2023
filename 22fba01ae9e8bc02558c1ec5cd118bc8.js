@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[1941],{94924:function(e,i,n){n.r(i);var t=n(2784),l=n(33914);i.default=function(e){var i,n,a,d=e.component;return t.createElement(l.bj,{imageData:null===(i=d.fieldMediaImageSingle)||void 0===i?void 0:i.entity,href:null===(n=d.fieldCta)||void 0===n||null===(a=n.url)||void 0===a?void 0:a.path,openInNewTab:d.fieldOpenLinkInNewTab,width:d.width})}}}]);
+//# sourceMappingURL=dataComponents-LogoSetItemData-bf116779f4e44ee74636.js.map

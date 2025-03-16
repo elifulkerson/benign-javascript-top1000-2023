@@ -1,0 +1,1 @@
+MobileUtils.setupMobileClass();

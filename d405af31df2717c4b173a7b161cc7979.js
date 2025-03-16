@@ -1,0 +1,1 @@
+window.recaptcha_v3_site_key = '6LeCFmwfAAAAAA4qBtkgg3WVJWVYGkt05yKT6gi1'

@@ -1,0 +1,1 @@
+!function(){const e=new URLSearchParams(window.location.search);if(e&&e.has("theme")){let t=e.get("theme");"dark"===t||"light"===t?localStorage.setItem("theme",t):localStorage.setItem("theme","light")}const t=localStorage.getItem("theme");t&&"dark"===t&&document.querySelector("html").classList.add("dark-theme")}();

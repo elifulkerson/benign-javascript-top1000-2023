@@ -1,0 +1,1 @@
+window.immediateFetch.fetch('banner', '/ajax/bSubNavPlacement.php?section=slickdealsindex&url=%2F');

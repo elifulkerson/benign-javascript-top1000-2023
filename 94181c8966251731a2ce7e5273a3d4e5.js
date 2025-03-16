@@ -1,0 +1,1 @@
+jQuery(".switch-effect").slide({ titCell: ".hd a", mainCell: ".bd", delayTime: 100, triggerTime: 50, });

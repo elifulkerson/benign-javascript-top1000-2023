@@ -1,0 +1,4 @@
+window.etp = {"src":"https://static.crunchyroll.com/analytics/segment.v5.1.0.js","config":{"analytics":{"writeKey":"VfZ36W4IeP9eT1VqeGPX2DIwq6SeLyW4","microsoftWriteKey":"HbnMM2mSIKuwfaYearW0ioRSLoao1ljF","defaultApiHost":"eec.crunchyroll.com/v1","fallbackLibraryHost":"sa.etp-prod.com/analytics.js/v1/","gtmId":"GTM-PK7T4JG"},"ccpa":{"userConsentConfig":{"cookieDomain":"beta.crunchyroll.com","domId":"1bd5662a-1ef1-4d20-bea2-ea9557d3df42","src":"https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"}}}};
+  if (window.document.referrer === 'app-info://platform/microsoft-store') {
+    window.etp.config.analytics.writeKey = window.etp.config.analytics.microsoftWriteKey
+  }

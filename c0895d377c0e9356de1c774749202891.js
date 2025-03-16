@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".logIn").click(function(e){var mCloseAllPopupOrigin=QU;QU=function(){};setTimeout(function(){QU=mCloseAllPopupOrigin;$("#page_screen").on("click",QU);},500);e.stopPropagation();e.preventDefault();blX("Login");return true;});});DoShow('notloggedin_wrapper');

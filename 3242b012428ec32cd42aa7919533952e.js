@@ -1,0 +1,1 @@
+window.LZD_RETCODE_SAMPLE = 100;

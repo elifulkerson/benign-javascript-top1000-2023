@@ -1,0 +1,1 @@
+window.redwood={"consentGroups":{"C0001":true,"C0002":true,"C0003":true,"C0004":true},"country":"US","colo":"PHX","user":null,"locale":"en-US"}

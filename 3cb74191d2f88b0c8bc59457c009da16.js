@@ -1,0 +1,1 @@
+window.BidBarrel = window.BidBarrel || {}; window.BidBarrel.queue = window.BidBarrel.queue || [];

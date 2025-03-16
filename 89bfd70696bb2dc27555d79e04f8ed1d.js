@@ -1,0 +1,1 @@
+$(".prgormas a").click(function(a){a.preventDefault();$("body").animate({scrollTop:$("#program_box").offset().top-50},2000)});

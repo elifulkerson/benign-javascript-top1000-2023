@@ -1,0 +1,10 @@
+window.mboxTrack = function(){};
+      window._adobeTarget = true;
+      window._adobeTargetWorkspace = '21e797f3-539c-0848-cd97-01ed92a2bb14';
+      window.dmtData = window.dmtData || {};
+      window.dmtData.vendor = window.dmtData.vendor || {};
+      window.dmtData.vendor.catchpoint = window.dmtData.vendor.catchpoint || {};
+      window.dmtData.vendor.catchpoint.active = true;
+      window.dmtData.vendor.catchpoint.appOverride = 6866;
+      window.dmtData.vendor.walkme = false;
+      window.phpVersion='newphp';

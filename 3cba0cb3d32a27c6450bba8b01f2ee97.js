@@ -1,0 +1,1 @@
+window.isAuthorized = 0

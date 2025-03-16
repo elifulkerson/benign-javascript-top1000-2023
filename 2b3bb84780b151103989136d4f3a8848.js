@@ -1,0 +1,1 @@
+if(typeof pika !== 'undefined' && 'Reporter' in pika){pika.Reporter.init({"packageName":"template-ui","apiId":"cc1ljun9gpbp8ciciolg","apiDomain":"https://api.saasexch.com","ssr":true,"COMMIT_HEAD":"9e8579435f23bc9376cb660b5a31c5dbdab5341a","pikaVersion":"0.1.109","traceId":"d2c6691e-578a-4c23-afe6-151b032d4fe8"})}

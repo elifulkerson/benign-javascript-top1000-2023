@@ -1,0 +1,1 @@
+var _aaq = window._aaq || (window._aaq = []);

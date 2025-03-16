@@ -1,0 +1,1 @@
+function quantumReadyCallback() { window.isQuantumInitialized = true; window.removeEventListener('aVGcWTqWTj', quantumReadyCallback); }; if (typeof window !== 'undefined') { window.isQuantumInitialized = false; window.addEventListener('aVGcWTqWTj', quantumReadyCallback); }

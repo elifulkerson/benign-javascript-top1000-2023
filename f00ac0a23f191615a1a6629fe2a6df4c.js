@@ -1,0 +1,1 @@
+if(('serviceWorker'in navigator)&&isBot===false){window.addEventListener('load',function(){navigator.serviceWorker.register('/sw-production.js');});}

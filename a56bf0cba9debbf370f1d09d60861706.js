@@ -1,0 +1,1 @@
+window.openWeb=!1

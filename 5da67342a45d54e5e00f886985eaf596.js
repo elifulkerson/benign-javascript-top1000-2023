@@ -1,0 +1,2 @@
+/* global: ensemble is from dws-ensemble-appshell. */
+        ensemble.processChunk("embedded-app", "css_files-2", function(){ensemble.loadCSS(["https://cfl.dropboxstatic.com/static/metaserver/static/css/google_one_tap-vflxRBVdY.css"])});

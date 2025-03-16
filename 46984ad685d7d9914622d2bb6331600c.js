@@ -1,0 +1,1 @@
+$(".flexslider").flexslider({animation:"slide",directionNav:false,controlNav:false});$(".main_slider_prev").on("click",function(){$(".main_slider").flexslider("prev");return false});$(".main_slider_next").on("click",function(){$(".main_slider").flexslider("next");return false});

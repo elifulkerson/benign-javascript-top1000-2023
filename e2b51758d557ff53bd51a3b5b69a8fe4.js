@@ -1,0 +1,1 @@
+var ga4Dims = {"page_type":"home","section":"home","display_template":"standard","has_brightcove_player":"no","has_sendtonews_player":"no","redesign_viewer":"true","photo_display_type":"Null"};

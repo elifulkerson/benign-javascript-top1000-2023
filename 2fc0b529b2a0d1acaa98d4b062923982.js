@@ -1,0 +1,1 @@
+if (window.innerWidth <= 600) document.getElementById('viewport').setAttribute('content', 'initial-scale=1.0, minimum-scale 1.0, width="device-width"');

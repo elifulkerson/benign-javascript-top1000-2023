@@ -1,0 +1,1 @@
+(function () {window.dataLayer.push({event: "TLDDomain Received", "TLDDomain": "healthline.com"})})()

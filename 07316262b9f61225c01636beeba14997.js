@@ -1,0 +1,1 @@
+var SENTRY_CONFIG = {"environment":"production","dsn":"http://c330734aa8ef47e79c6baa18ebf877d7:0fe02982823646ecaf900125bd387d5f@sentry.reddit.ue1.snooguts.net","enabled":true};

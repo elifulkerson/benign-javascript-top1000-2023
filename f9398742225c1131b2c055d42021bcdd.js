@@ -1,0 +1,1 @@
+WH.Layout.DataTreeSwitcher.init();

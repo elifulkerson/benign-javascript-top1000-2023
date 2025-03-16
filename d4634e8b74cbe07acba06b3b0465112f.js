@@ -1,0 +1,1 @@
+window.headerBiddingPushAdUnits = function( params ) { };

@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[6929],{20010:function(e,l,t){t.r(l);var a=t(59231);t(2784);l.default=function(e){var l=e.align,t=e.classes,n=void 0===t?"":t,s=e.display,i=e.text,u=e.tag,_=e.anchor,r=e.overrideStyles,c=e.tabIndex,d=u?""+u:"h1",g=s&&"default"===s?null:s;return i?(0,a.tZ)(d,Object.assign({className:"HeadingTag "+n,id:_||null},c&&{tabIndex:c},{sx:Object.assign({textAlign:l||null},r,{variant:g?"text."+g.replace("-",""):null})}),i):null}}}]);
+//# sourceMappingURL=HeadingTag-f6e627478121807f9f6f.js.map

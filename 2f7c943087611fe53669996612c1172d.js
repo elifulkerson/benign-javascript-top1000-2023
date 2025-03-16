@@ -1,0 +1,1 @@
+jwplayer.base = "https://static.namasha.com/content/player8.11.10/";

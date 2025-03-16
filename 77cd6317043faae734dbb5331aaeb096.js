@@ -1,0 +1,1 @@
+(function () {window.dataLayer.push({event: "Tenant Received", "Tenant": "hl"})})()

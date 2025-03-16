@@ -1,0 +1,9 @@
+(function () {
+		var featureGating;
+
+		try {
+			featureGating = JSON.parse('{"draftArticleDeeplinks":false,"playerFollowing":true,"showTaboolaSportIndex":true,"deflateZips":false,"browerDeprecation":true,"useLatestPaywall":true,"disableBet365":false,"enableHuluPromo":false,"hudsonPAL":true,"olyResultsGPWebview":false,"disableUSBettingAds":true,"enableMagnite":true,"mens-college-basketball-bracket-fc":true,"enableVisionEvents":true,"fittRoutes":["(nba-g-league|world-baseball-classic|caribbean-series|soccer)\\/schedule","(mlb|mens-college-basketball|womens-college-basketball|nba|wnba|nba-summer-league|nba-g-league|nbl|nfl|college-football|world-baseball-classic|caribbean-series|soccer)\\/scoreboard","(mlb|nba|wnba|nfl|mens-college-basketball|womens-college-basketball|college-football|soccer)\\/team","(mlb|nba|wnba|nba-summer-league|nba-g-league|nbl|mens-college-basketball|womens-college-basketball|mens-olympics-basketball|womens-olympics-basketball|nfl|college-football|world-baseball-classic|caribbean-series|soccer|college-softball|college-baseball)\\/(match|boxscore|game|matchup|playbyplay|preview|recap|video|lineups|matchstats|commentary|report|verslag)"],"drm":true,"enableLeaderboardWatchRow":true,"fittVodPlayer":true,"oneIDV4":true,"activeSportsSiteAPI":true,"gateFavorites":true,"enableScoreboardPromo":false,"womens-college-basketball-bracket-fc":true,"enableGameBreaksOnWebview":false,"contentReactions":true,"usPrivacy":true,"hudsonPlayer":true,"enablePWA":true,"enableCarouselPromo":false,"showTaboolaArticle":false,"newSearchVersion":true,"startFromBeginning":true,"enableGamecastSponsoredAd":false,"continueWatching":true,"maxFastcastGames":true,"geoFooter":true,"enableMarketplace":false,"enableFastcast":true,"mobilePlaylist":true,"siteBroadcast":true}');
+		} catch (e) {}
+
+		window.espn.featureGating = featureGating || {};
+	})();

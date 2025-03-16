@@ -1,0 +1,1 @@
+document.write(window.ui.os); if (window.ui.osversion != null) document.write(" " + window.ui.osversion);

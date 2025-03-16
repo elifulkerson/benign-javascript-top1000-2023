@@ -1,0 +1,7 @@
+M.state.advert.pubads.push(['g_temp', '25-27'])
+        M.state.advert.pubads.push(['g_lang', 'ru'])
+        M.state.advert.pubads.push(['g_page', M.fn.getSectionName()])
+        M.state.advert.pubads.push(['g_city', '29414'])
+        M.state.advert.pubads.push(['g_country', '181'])
+        M.state.advert.pubads.push(['g_region', '380'])
+        M.state.advert.pubads.push(['g_weather', 'sun'])

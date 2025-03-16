@@ -1,0 +1,1 @@
+window.shouldOptimizeLCP = true;

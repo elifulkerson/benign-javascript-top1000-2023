@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=d4]Season 2 is just around the corner for Diablo 4 - finish up these Seasonal challenges and earn Seasonal rewards before they're gone forever!", "news-post-652cc2215fd3d2.92483110", {"allow":30,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335519,"stopAtBreak":1});

@@ -1,0 +1,1 @@
+window.hj=window.hj||function(){(hj.q=hj.q||[]).push(arguments)};

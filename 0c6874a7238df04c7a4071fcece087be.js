@@ -1,0 +1,1 @@
+window.$$publicPath = "https://s.smallpdf.com/static/"

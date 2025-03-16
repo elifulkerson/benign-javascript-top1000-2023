@@ -1,0 +1,1 @@
+window.rlcData = '\u005B\u005D';

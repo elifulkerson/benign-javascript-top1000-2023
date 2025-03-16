@@ -1,0 +1,1 @@
+window.allScripts = window.allScripts || []; window.allScripts.push({ type: "gdpr", script: "%3Cscript%0A%20%20%20%20async%3D%22async%22%0A%20%20%20%20data-track-load%3D%22gpt%22%0A%20%20%20%0A%20%20%20%20data-consent%3D%22MARKETING%22%0A%20%20%20%20src%3D%22https%3A%2F%2Fsecurepubads.g.doubleclick.net%2Ftag%2Fjs%2Fgpt.js%22%0A%20%20%3E%3C%2Fscript%3E" });

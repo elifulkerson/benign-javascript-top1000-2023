@@ -1,0 +1,2 @@
+function loadFeed() { var c = google.ads.domains.Caf;var a=Array.prototype.slice.call(arguments);switch(a.length) { case 1:return new c(a[0]);case 2:return new c(a[0],a[1]);case 3:return new c(a[0],a[1],a[2]);case 4:return new c(a[0],a[1],a[2],a[3]);case 5:return new c(a[0],a[1],a[2],a[3],a[4]); } return c.apply(null,a); }
+                function relatedCallback(options) { return false; } function relatedFallback(callback) { return callback(); }

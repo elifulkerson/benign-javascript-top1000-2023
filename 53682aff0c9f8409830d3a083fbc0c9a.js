@@ -1,0 +1,10 @@
+var rts_site = "emol";
+    var rts_id = '';
+    var rts_cat = 'portada';
+    var rts_subcat = 'portada';
+    var rts_title = 'emol.com - el sitio de noticias online de chile.';
+    var rts_url = 'http://www.emol.com/portada/index.aspx';
+    var rts_image = 'https://static.emol.cl/emol50/img/EmolTwitter.png';
+    var rts_date = '16/10/2023';
+    var rts_time = '01:57';
+    var rts_tags = '';

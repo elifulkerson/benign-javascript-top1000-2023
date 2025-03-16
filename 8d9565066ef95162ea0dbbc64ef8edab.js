@@ -1,0 +1,1 @@
+if( ! window.g_bLibFileDebug && ! window.g_mfccore_loaded ) { console.log('CDN fallback'); docWriteLibs(); }

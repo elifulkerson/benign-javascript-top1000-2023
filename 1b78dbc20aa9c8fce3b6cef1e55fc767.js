@@ -1,0 +1,1 @@
+googletag.cmd.push(function() { googletag.display('tenki-ad-2nd_PD'); });

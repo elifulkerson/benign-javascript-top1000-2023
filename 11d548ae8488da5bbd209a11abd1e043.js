@@ -1,0 +1,1 @@
+window.lzimg && lzimg('ready')

@@ -1,0 +1,1 @@
+(function(a){window.__reactServerOnClickHandler=function(i){(a[i]=a[i]||[]).push(new Date)}})(window.__reactServerUnhandledEvents={})

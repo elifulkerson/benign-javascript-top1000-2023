@@ -1,0 +1,1 @@
+window.P && P.register('sp.load.js');

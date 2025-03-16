@@ -1,0 +1,27 @@
+window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+				'content_id'                :'',
+				'content_site'              :'Bolasport',
+				'content_site_id'           :'31',
+				'content_category'			:'home',
+				'content_subcategory'		:'',
+				'content_location'			:'Indonesia',
+				'content_author'			:'Bolasport.com',
+				'content_aid1'			    :'',
+				'content_aid2'			    :'',
+				'content_aid3'			    :'',
+				'content_editor'			:'',
+				'content_eid'			    :'',
+				'content_lipsus'            :'',
+				'content_lipsus_id'         :'',
+				'content_type'				:'Standard',
+				'content_PublishedDate'		:'',
+				'content_Month_PubDate'		:'',
+				'content_Year_PubDate'		:'',
+				'content_Date_PubDate'		:'',
+                'content_source'			:'',
+                'content_tag'		    	:'bolasport, bola, liga spanyol, liga inggris, liga italia, liga indonesia, bulutangkis, tinju, atletik, prediksi, jadwal pertandingan, hasil pertandingan, olahraga, piala dunia 2022, sejarah hari ini, liga 1, manchester united, bursa transfer, liga champions',
+                'content_title'			    :'Situs Berita Bola dan Olahraga Terlengkap - BolaSport.com',
+				'content_total_words'		:'',
+				'bid'				        :''
+            });

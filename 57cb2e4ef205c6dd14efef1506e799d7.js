@@ -1,0 +1,1 @@
+window._addPerformanceMarkCxOnload=function(){performance.mark("cx-candybar-onload");}

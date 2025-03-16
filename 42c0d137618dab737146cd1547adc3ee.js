@@ -1,0 +1,1 @@
+var BASE = 'https://ouo.io';

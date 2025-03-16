@@ -1,0 +1,1 @@
+if ( !window.EVENTSTACK ) window.EVENTSTACK = [];

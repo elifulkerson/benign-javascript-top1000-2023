@@ -1,0 +1,1 @@
+window.llvConfig=window.llvConfig||{};window.llvConfig.vimeo={"buttonstyle":"youtube_button_image_red","playercolour":"#00adef","preroll":"","postroll":"","show_title":false,"overlaytext":"","loadthumbnail":true,"thumbnailquality":"basic","cookies":false,"callback":"<!--VIMEO_CALLBACK-->"};

@@ -1,0 +1,1 @@
+[{"type":"setCookie","payload":{"cookie":"CountryRegion","value":"USA"}},{"type":"setCookie","payload":{"cookie":"LanguageCode","value":"en"}},{"type":"setSubCookie","payload":{"cookie":"CountryConfiguration","subCookieKey":"CurrencyCode","subCookieValue":"USD"}}]

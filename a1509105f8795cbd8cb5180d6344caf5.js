@@ -1,0 +1,1 @@
+setTimeout(function(){document.location.href="/?refresh_ce";}, 720000);

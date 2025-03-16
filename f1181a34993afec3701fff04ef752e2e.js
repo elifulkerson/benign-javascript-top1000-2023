@@ -1,0 +1,1 @@
+WH.markup.printHtml("[db=live]Some class tuning hotfixes have been pushed to the PTR which includes changes to Demonology Warlock and Fury Warrior!", "news-post-652cc2216e2730.54442462", {"allow":40,"disabledEnvironments":{"ptr":false,"ptr2":false,"beta":false},"inNewsType":1,"uid":335495,"stopAtBreak":1});

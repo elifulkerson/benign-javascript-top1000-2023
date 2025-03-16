@@ -1,0 +1,1 @@
+document&&document.cookie&&(~document.cookie.indexOf("ISAPP")||~document.cookie.indexOf("ISIOS"))&&(document.querySelector(".site-header")&&(document.querySelector(".site-header").style="display: none"),document.querySelector(".site-footer")&&(document.querySelector(".site-footer").style="display: none"))

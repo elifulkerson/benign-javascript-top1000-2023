@@ -1,0 +1,2 @@
+/* global: ensemble is from dws-ensemble-appshell. */
+        ensemble.processChunk("embedded-app", "const_module-1", function(){ensemble.defineConstModule("metaserver/static/js/modules/constants/viewer", "bf7b6a2b4e209f24dfa47b1cbb10dec4abcb50ad", {"DEFAULT_ROOT_NAME": "Dropbox", "PERSONAL_ROLE_STRING": "Personal", "_viewer_properties": {"_user_data": [], "_additional_linked_users_data": [], "is_team_assume_user_session": false, "is_assume_user_session": false}, "prompt_ha_hiding": true, "LOCALE": "US", "__esModule": true})});

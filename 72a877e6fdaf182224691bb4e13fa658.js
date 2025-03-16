@@ -1,0 +1,1 @@
+window.Groupon.ads = { url: 'https://www1.grouponcdn.com/layout/assets/adframe-921eebc11f.js' }

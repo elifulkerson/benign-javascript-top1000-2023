@@ -1,0 +1,1 @@
+document.write('<p class=\'no_search\'>최근 검색어<br /> 내역이 없습니다.</p>');

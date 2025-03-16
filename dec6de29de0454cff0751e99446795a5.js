@@ -1,0 +1,2 @@
+/* global: ensemble is from dws-ensemble-appshell. */
+        ensemble.processChunk("embedded-app", "const_module-9", function(){ensemble.defineConstModule("metaserver/static/js/modules/constants/time", "bf7b6a2b4e209f24dfa47b1cbb10dec4abcb50ad", {"DATETIME_FORMAT": "M/d/yyyy h:mm a", "TIMEZONE_OFFSET": 0, "TIMEZONE": "", "DATE_FORMAT": "M/d/yyyy", "TIME_FORMAT": "h:mm a", "__esModule": true})});
